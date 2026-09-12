@@ -1,0 +1,21 @@
+state = {
+    id = 1199
+    name="STATE_1199"
+    manpower = 180000
+    state_category = rural
+
+    history = {
+    owner = SOV
+    add_core_of = SOV
+        
+        victory_points = {
+			721 1 # Kherson
+		}
+    }
+
+    provinces = {
+        721 11715 15819
+    }
+
+    local_supplies = 0
+}

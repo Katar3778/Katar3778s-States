@@ -1,0 +1,29 @@
+
+state={
+	id=1219
+	name="STATE_1219"
+	manpower = 1216838
+	resources={
+		steel = 1
+	}
+
+	state_category = city
+
+
+	history={
+		owner = SWI
+						buildings = {
+			infrastructure = 4
+			arms_factory = 3
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = SWI
+	}
+
+	provinces={
+		165 166 167 168 169
+	}
+
+	local_supplies=0.0 
+}

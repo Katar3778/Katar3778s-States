@@ -1,0 +1,17 @@
+state = {
+    id = 1209
+    name="STATE_1209"
+    manpower = 1000
+    state_category = wasteland
+
+    history = {
+	owner = DEN
+	add_core_of = DEN
+    }
+
+    provinces = {
+        21622
+    }
+
+    local_supplies = 0
+}

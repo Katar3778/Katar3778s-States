@@ -1,0 +1,18 @@
+state={
+	id=1052
+	name="STATE_1052"
+	state_category=small_island
+	manpower=100000
+	resources={
+		rubber=1
+	}
+
+	history={
+		owner = ENG
+			}
+
+	provinces={
+		1
+	}
+	local_supplies=0.0 
+}

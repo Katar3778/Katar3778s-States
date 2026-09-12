@@ -1,0 +1,23 @@
+state = {
+    id = 1207
+    name="STATE_1207"
+    manpower = 1400000
+    state_category = megalopolis
+
+    history = {
+		owner = FRA
+		add_core_of = FRA
+        victory_points = {
+    	    11506 50 # NorthernParis
+ 		}
+        victory_points = {
+			11506 50 # Paris
+		}
+    }
+
+    provinces = {
+        11506
+    }
+
+    local_supplies = 0
+}

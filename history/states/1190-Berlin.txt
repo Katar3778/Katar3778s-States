@@ -1,0 +1,21 @@
+state = {
+    id = 1190
+    name="STATE_1190"
+    manpower = 8000000
+    state_category = megalopolis
+
+    history = {
+		owner = GER
+		add_core_of = GER
+		add_core_of = PRE
+        victory_points = {
+			6521 50 # Berlin
+		}
+    }
+
+    provinces = {
+        6521
+    }
+
+    local_supplies = 0
+}

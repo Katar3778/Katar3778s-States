@@ -1,0 +1,21 @@
+state = {
+    id = 1193
+    name="STATE_1193"
+    manpower = 400000
+    state_category = city
+
+    history = {
+		owner = BOL
+		add_core_of = BOL
+        victory_points = {
+			12930 10 
+		}
+        
+    }
+
+    provinces = {
+        5179 5229 10987 12930 12979 15274 15334 15345 15355 15356 17504 17512 17516 17528 17531 20129 20307 20800 20952 21363 21387
+    }
+
+    local_supplies = 0
+}

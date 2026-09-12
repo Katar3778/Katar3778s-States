@@ -1,0 +1,18 @@
+state = {
+    id = 1175
+    name="STATE_1175"
+    manpower = 1000000
+    state_category = metropolis
+
+    history = {
+		owner = FRA
+		add_core_of = FRA
+        
+    }
+
+    provinces = {
+        6949 9534 11491 11518 21621
+    }
+
+    local_supplies = 0
+}

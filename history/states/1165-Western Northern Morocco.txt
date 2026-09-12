@@ -1,0 +1,17 @@
+state = {
+    id = 1165
+    name="STATE_1165"
+    manpower = 95000
+    state_category = wasteland
+
+    history = {
+        owner = FRA
+		add_core_of = ALG
+    }
+
+    provinces = {
+        1126 1958 3991 4018 8088 9960 10731 12018 12842 13074 14223 14392 14410 15113 18008 18010 18022 18028 18045 18047 18051 18053 18056 20547 20659 20660 20661 20779 20904 21598 21606
+    }
+
+    local_supplies = 0
+}

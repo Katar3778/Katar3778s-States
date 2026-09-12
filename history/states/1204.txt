@@ -1,0 +1,22 @@
+state = {
+    id = 1204
+    name="STATE_1204"
+    manpower = 120000
+    state_category = rural
+
+    history = {
+		owner = SWI
+		add_core_of = SWI
+        
+        victory_points = {
+			6666 10
+		}
+        victory_points = { 6666 5 }
+    }
+
+    provinces = {
+        6666 6683 9622 11590 13124 21829 21830
+    }
+
+    local_supplies = 0
+}

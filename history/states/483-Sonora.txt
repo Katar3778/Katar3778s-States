@@ -1,0 +1,25 @@
+
+state={
+	id=483
+	name="STATE_483"
+	manpower = 303987
+	
+	state_category = rural
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = MEX
+		victory_points = {
+			10765 5
+		}
+	}
+
+	provinces={
+		245 2069 4908 5071 10765 10848 20613 21358 21391 21398 21406 21572 21579 21580 21603
+	}
+
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state = {
+    id = 1202
+    name="STATE_1202"
+    manpower = 40000
+    state_category = rural
+
+    history = {
+		owner = SWI
+		add_core_of = SWI
+        
+        
+    }
+
+    provinces = {
+        636 9618 18124
+    }
+
+    local_supplies = 0
+}

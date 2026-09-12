@@ -1,0 +1,22 @@
+state = {
+    id = 1203
+    name="STATE_1203"
+    manpower = 140000
+    state_category = pastoral
+
+    history = {
+		owner = SWI
+		add_core_of = SWI
+        victory_points = { 9620 15 }
+        victory_points = {
+			9620 15
+		}
+        victory_points = { 9620 15 }
+    }
+
+    provinces = {
+        9620 11604 18146 21789 21808 21809 21821 21822
+    }
+
+    local_supplies = 0
+}

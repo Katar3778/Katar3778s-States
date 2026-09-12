@@ -1,0 +1,20 @@
+state = {
+    id = 1178
+    name="STATE_1178"
+    manpower = 6000000
+    state_category = metropolis
+
+    history = {
+        owner = USA
+        add_core_of = USA
+        victory_points = {
+			9814 30
+		}
+    }
+
+    provinces = {
+        9814 14762 21975
+    }
+
+    local_supplies = 0
+}

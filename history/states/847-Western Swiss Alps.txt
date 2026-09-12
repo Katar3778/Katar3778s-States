@@ -1,0 +1,19 @@
+
+state={
+	id=847
+	name="STATE_847"
+	manpower = 178429
+	state_category = pastoral
+	history={
+		owner = SWI
+		buildings = {
+			infrastructure = 1 
+			industrial_complex = 1
+		}
+		add_core_of = SWI
+	}
+	provinces={
+		3612 9587 21790 21810 21811 21812
+	}
+	local_supplies=0.0 
+}

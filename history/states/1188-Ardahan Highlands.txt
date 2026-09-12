@@ -1,0 +1,15 @@
+state = {
+    id = 1188
+    name="Ardahan Highlands"
+    manpower = 25000
+    state_category = rural
+
+    history = {
+    owner = SOV
+        add_core_of = SOV
+
+}
+    provinces = {
+        3653 16231
+    }
+}

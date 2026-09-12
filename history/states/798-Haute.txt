@@ -1,0 +1,21 @@
+state={
+	id=798
+	name="STATE_798"
+	manpower=259961
+
+	state_category = town
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		933 3807 3862 3964 11826 11844 16262 18470
+	}
+
+	buildings_max_level_factor=1.000
+}

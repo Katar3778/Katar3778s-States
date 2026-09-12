@@ -1,0 +1,18 @@
+antarctic_research_bonus = {
+    enable = {
+		ROOT = {
+			controls_state = ROOT
+		}
+	}
+	remove_trigger = {
+		NOT = {
+			ROOT = {
+				controls_state = ROOT
+			}
+		}
+	}
+	
+	icon = GFX_modifiers_sabotaged_resource
+	
+	political_power_gain = 0.1
+}

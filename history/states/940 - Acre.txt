@@ -1,0 +1,33 @@
+
+state = {
+	id = 940
+	name = "STATE_940"
+	manpower = 463559
+	
+	state_category = pastoral
+	
+	resources = {
+		aluminium = 6 # was: 4
+	}
+
+	history = {
+
+		owner = BRA
+		add_core_of = BRA
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			13278 2 #rio branco
+		}
+		
+	}
+
+	provinces = {
+		2198 13278 13279 13280 14760 20127 20128 20161 20204 20468 20499 20565 21130 21182 21183 21262 21272 21273
+	}
+
+	local_supplies = 0.0 
+}

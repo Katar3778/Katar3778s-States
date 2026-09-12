@@ -1,0 +1,39 @@
+state = {
+	id = 302
+	name = "STATE_302"
+	manpower = 2044500
+
+	resources = {
+		tungsten = 60 # was: 102.000
+		steel = 2 # was: 2.000
+	}
+	
+	state_category = city
+
+	history = {
+
+		owner = BOL
+		add_core_of = BOL
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 2
+		}
+		
+		victory_points = {
+			5230 12 
+		}
+
+		
+
+	}
+
+	provinces = {
+		2174 5188 5230 8225 8240 10952 15335 15336 15337 15338 15339 15340 15342 15357 15359 17487 17488 17489 17522 17530 17543 17545 20049 20125 20308 20311 20349 20474 20818 21170 21171 21221 21263 21309 21310 21311 21319 21360 21384 21386 21409
+	}
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0 
+}
