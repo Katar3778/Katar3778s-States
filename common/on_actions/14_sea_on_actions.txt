@@ -1632,10 +1632,7 @@ on_actions = {
 					}
 					set_variable = { JAP.JAP_first_strike_principle_target_1 = FROM }
 					#The variable is cleared when the idea is removed within the idea
-					set_country_flag = { 
-						flag = JAP_first_strike_principle_remaining_days_1
-						days = 89
-					}
+					set_country_flag = JAP_first_strike_principle_remaining_days_1
 					ROOT = {
 						add_timed_idea = {
 						 	idea = JAP_first_strike_principle_1
@@ -1651,10 +1648,7 @@ on_actions = {
 					}
 					set_variable = { JAP.JAP_first_strike_principle_target_2 = FROM }
 					#The variable is cleared when the idea is removed within the idea
-					set_country_flag = { 
-						flag = JAP_first_strike_principle_remaining_days_2
-						days = 89
-					}
+					set_country_flag = JAP_first_strike_principle_remaining_days_2
 					ROOT = {
 						add_timed_idea = {
 						 	idea = JAP_first_strike_principle_2
@@ -1670,10 +1664,7 @@ on_actions = {
 					}
 					set_variable = { JAP.JAP_first_strike_principle_target_3 = FROM }
 					#The variable is cleared when the idea is removed within the idea
-					set_country_flag = { 
-						flag = JAP_first_strike_principle_remaining_days_3
-						days = 89
-					}
+					set_country_flag = JAP_first_strike_principle_remaining_days_3
 					ROOT = {
 						add_timed_idea = {
 						 	idea = JAP_first_strike_principle_3

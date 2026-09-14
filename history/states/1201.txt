@@ -8,7 +8,7 @@ state = {
 		owner = SWI
 		add_core_of = SWI
         victory_points = { 658 1 }
-        victory_points = { 663 10 }
+        
         victory_points = {
 			663 10
 		}
@@ -16,7 +16,7 @@ state = {
     }
 
     provinces = {
-        658 661 663 11601 18126 21816 21817 21818 21820
+        658 661 11601 18126 21816 21818 21820
     }
 
     local_supplies = 0

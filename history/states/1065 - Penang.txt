@@ -26,14 +26,7 @@ state = {
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-			10968 = {
-				naval_base = 1
-				# Fort de Shinakasa
-				coastal_bunker = 2
-				bunker = 2
-			}
 			13408 = {
-				naval_base = 1
 				bunker = 2
 			}
 		}

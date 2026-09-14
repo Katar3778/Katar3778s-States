@@ -410,8 +410,56 @@ adjacency_rule =
 	
 	required_provinces = {
 		11559 9417 585 11418 426 18304 11403 449 3464 3478 6490 14441 6503 9474 3505 6527 17440 11447 18335 498 520 3487 6516 3461 6486 9440 9455 11579 11429 9735 6620 11706 9753 6758 757
-	} 
-		
+	}
+
 	icon = 6527
 	offset = { 4 0 0 }
+}
+
+#Marmara Strait (Bosphorus) - required_provinces still use vanilla IDs, need remapping to this map's province numbering
+adjacency_rule =
+{
+	name = "BOSPHORUS_STRAIT"
+
+	is_friend = {
+		TUR_is_friend_for_bosphorus = yes
+	}
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+
+	required_provinces = { 9833 11829 }
+
+	is_disabled = {
+		has_country_flag = BOSPHORUS_STRAIT_BLOCKED_FOR_COUNTRY
+		tooltip = bosporus_strait_blocked_tt
+	}
+
+	icon = 9833
+	offset = { -2 0 -9 }
 }

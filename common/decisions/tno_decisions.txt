@@ -3927,7 +3927,7 @@ antarctic_development = {
 		days_remove = 35
 		allowed = { original_tag = GER }
 		available = {
-			has_country_flag = GER_can_flee_to_antarctica
+			has_country_flag = is_antarctica_claimant
 			any_core_state = {
 				is_controlled_by = ROOT
 				arms_factory > 0
@@ -3950,7 +3950,7 @@ antarctic_development = {
 		visible = {
 			surrender_progress > 0.1
 			original_tag = GER
-			has_country_flag = GER_can_flee_to_antarctica
+			has_country_flag = is_antarctica_claimant
 			NOT = { has_global_flag = ZZZ_isnt_ai }
 			any_core_state = {
 				is_controlled_by = ROOT
@@ -4027,7 +4027,7 @@ antarctic_development = {
 		days_remove = 35
 		allowed = { original_tag = GER }
 		available = {
-			has_country_flag = GER_can_flee_to_antarctica
+			has_country_flag = is_antarctica_claimant
 			any_core_state = {
 				is_controlled_by = ROOT
 				industrial_complex > 0
@@ -4050,7 +4050,7 @@ antarctic_development = {
 		visible = {
 			surrender_progress > 0.1
 			original_tag = GER
-			has_country_flag = GER_can_flee_to_antarctica
+			has_country_flag = is_antarctica_claimant
 			NOT = { has_global_flag = ZZZ_isnt_ai }
 			any_core_state = {
 				is_controlled_by = ROOT
