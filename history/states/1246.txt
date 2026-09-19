@@ -1,0 +1,17 @@
+state = {
+    id = 1246
+    name="STATE_1246"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+		owner = CAN
+		add_core_of = CAN
+    }
+
+    provinces = {
+        17233 22736 23472
+    }
+
+    local_supplies = 0
+}
