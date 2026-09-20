@@ -1,0 +1,17 @@
+state = {
+    id = 1267
+    name="STATE_1267"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+		owner = USA
+		add_core_of = USA
+    }
+
+    provinces = {
+        1320 4747 21026 21419 21860 21987 22908 23009 23017 23045 23084 23556 23698 24365 24519 24593
+    }
+
+    local_supplies = 0
+}

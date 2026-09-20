@@ -8,5 +8,5 @@ tags={
 	"Gameplay"
 }
 name="Katar3778's States"
-supported_version="1.19.2.0"
+supported_version="1.19.*"
 replace_path="history/states"

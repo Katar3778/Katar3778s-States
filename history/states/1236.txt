@@ -10,7 +10,7 @@ state = {
     }
 
     provinces = {
-        10690
+        10690 23934 24241
     }
 
     local_supplies = 0
