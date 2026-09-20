@@ -1,16 +1,16 @@
 state = {
     id = 1241
-    name="STATE_1241"
-    manpower = 0
-    state_category = wasteland
+    name="STATE_1241" #Camsell Bend
+    manpower = 80
+    state_category = rural
 
     history = {
-		owner = USA
-		add_core_of = USA
+		owner = CAN
+		add_core_of = CAN
     }
 
     provinces = {
-        
+        22723 23466 25093
     }
 
     local_supplies = 0

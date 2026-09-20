@@ -1,14 +1,16 @@
 state = {
     id = 1232
-    name="STATE_1232"
-    manpower = 0
-    state_category = wasteland
+    name="STATE_1232" #Horn Mountains
+    manpower = 15
+    state_category = rural
 
     history = {
+		owner = CAN
+		add_core_of = CAN
     }
 
     provinces = {
-        
+        17201 22443 24942
     }
 
     local_supplies = 0
