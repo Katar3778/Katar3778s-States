@@ -1,6 +1,6 @@
 state = {
     id = 1227
-    name="STATE_1227"
+    name="STATE_1227" #Kananaskis Range
     manpower = 0
     state_category = wasteland
 

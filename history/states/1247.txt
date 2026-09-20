@@ -1,6 +1,6 @@
 state = {
     id = 1247
-    name="STATE_1247"
+    name="STATE_1247" #Liard Plateau
     manpower = 0
     state_category = wasteland
 

@@ -1,6 +1,6 @@
 state = {
     id = 1281
-    name="STATE_1281"
+    name="STATE_1281" #Tay Range
     manpower = 0
     state_category = wasteland
 

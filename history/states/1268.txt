@@ -1,6 +1,6 @@
 state = {
     id = 1268
-    name="STATE_1268"
+    name="STATE_1268" #Channeled Scablands
     manpower = 0
     state_category = wasteland
 

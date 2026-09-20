@@ -1,6 +1,6 @@
 state = {
     id = 1277
-    name="STATE_1277"
+    name="STATE_1277" #Campbell Range
     manpower = 0
     state_category = wasteland
 

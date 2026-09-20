@@ -1,6 +1,6 @@
 state = {
     id = 1261
-    name="STATE_1261"
+    name="STATE_1261" #South Nahanni Foothills
     manpower = 0
     state_category = wasteland
 

@@ -1,6 +1,6 @@
 state = {
     id = 1287
-    name="STATE_1287"
+    name="STATE_1287" #Sierra Madre Occidental
     manpower = 0
     state_category = wasteland
 

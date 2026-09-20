@@ -1,6 +1,6 @@
 state = {
     id = 1276
-    name="STATE_1276"
+    name="STATE_1276" #Fort Nelson Lowlands
     manpower = 0
     state_category = wasteland
 

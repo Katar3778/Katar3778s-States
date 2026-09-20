@@ -1,6 +1,6 @@
 state = {
     id = 1238
-    name="STATE_1238"
+    name="STATE_1238" #Vermilion Range
     manpower = 0
     state_category = wasteland
 

@@ -1,6 +1,6 @@
 state = {
     id = 1257
-    name="STATE_1257"
+    name="STATE_1257" #Central Selwyn Mountains
     manpower = 0
     state_category = wasteland
 

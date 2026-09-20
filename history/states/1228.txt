@@ -1,6 +1,6 @@
 state = {
     id = 1228
-    name="STATE_1228"
+    name="STATE_1228" #Muskwa Ranges
     manpower = 0
     state_category = wasteland
 

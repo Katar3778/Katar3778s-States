@@ -1,6 +1,6 @@
 state = {
     id = 1251
-    name="STATE_1251"
+    name="STATE_1251" #Anvil Range
     manpower = 0
     state_category = wasteland
 

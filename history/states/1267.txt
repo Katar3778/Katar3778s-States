@@ -1,6 +1,6 @@
 state = {
     id = 1267
-    name="STATE_1267"
+    name="STATE_1267" #Moses Coulee
     manpower = 0
     state_category = wasteland
 

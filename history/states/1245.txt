@@ -1,6 +1,6 @@
 state = {
     id = 1245
-    name="STATE_1245"
+    name="STATE_1245" #Backbone Ranges
     manpower = 0
     state_category = wasteland
 

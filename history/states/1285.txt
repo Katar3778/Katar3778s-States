@@ -1,6 +1,6 @@
 state = {
     id = 1285
-    name="STATE_1285"
+    name="STATE_1285" #Tlogotsho Range
     manpower = 0
     state_category = wasteland
 

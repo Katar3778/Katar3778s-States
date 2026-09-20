@@ -1,6 +1,6 @@
 state = {
     id = 1244
-    name="STATE_1244"
+    name="STATE_1244" #Ragged Range
     manpower = 0
     state_category = wasteland
 

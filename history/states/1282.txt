@@ -1,6 +1,6 @@
 state = {
     id = 1282
-    name="STATE_1282"
+    name="STATE_1282" #Klondike Plateau
     manpower = 0
     state_category = wasteland
 

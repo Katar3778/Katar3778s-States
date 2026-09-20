@@ -1,6 +1,6 @@
 state = {
     id = 1262
-    name="STATE_1262"
+    name="STATE_1262" #Nisling Range
     manpower = 0
     state_category = wasteland
 

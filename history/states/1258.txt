@@ -1,6 +1,6 @@
 state = {
     id = 1258
-    name="STATE_1258"
+    name="STATE_1258" #Twitya Range
     manpower = 0
     state_category = wasteland
 

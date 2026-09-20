@@ -1,6 +1,6 @@
 state = {
     id = 1235
-    name="STATE_1235"
+    name="STATE_1235" #Palouse Hills
     manpower = 0
     state_category = wasteland
 

@@ -1,6 +1,6 @@
 state = {
     id = 1271
-    name="STATE_1271"
+    name="STATE_1271" #Chilcotin Plateau
     manpower = 0
     state_category = wasteland
 

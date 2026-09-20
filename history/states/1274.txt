@@ -1,6 +1,6 @@
 state = {
     id = 1274
-    name="STATE_1274"
+    name="STATE_1274" #Wernecke Mountains
     manpower = 0
     state_category = wasteland
 

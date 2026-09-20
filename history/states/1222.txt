@@ -1,6 +1,6 @@
 state = {
     id = 1222
-    name="STATE_1222"
+    name="STATE_1222" #Bonnet Plume Range
     manpower = 0
     state_category = wasteland
 

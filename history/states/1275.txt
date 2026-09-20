@@ -1,6 +1,6 @@
 state = {
     id = 1275
-    name="STATE_1275"
+    name="STATE_1275" #Dawson Range
     manpower = 0
     state_category = wasteland
 

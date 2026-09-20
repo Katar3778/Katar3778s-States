@@ -1,6 +1,6 @@
 state = {
     id = 1263
-    name="STATE_1263"
+    name="STATE_1263" #Southern Ogilvie Mountains
     manpower = 0
     state_category = wasteland
 

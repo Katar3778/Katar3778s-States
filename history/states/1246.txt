@@ -1,6 +1,6 @@
 state = {
     id = 1246
-    name="STATE_1246"
+    name="STATE_1246" #Funeral Range
     manpower = 0
     state_category = wasteland
 
