@@ -1,8 +1,8 @@
 state = {
     id = 1260
     name="STATE_1260" #St. Elias Mountains
-    manpower = 0
-    state_category = wasteland
+    manpower = 100
+    state_category = rural
 
     history = {
 		owner = CAN

@@ -1,8 +1,8 @@
 state = {
     id = 1250
     name="STATE_1250" #Premier Range
-    manpower = 0
-    state_category = wasteland
+    manpower = 100
+    state_category = rural
 
     history = {
 		owner = CAN
