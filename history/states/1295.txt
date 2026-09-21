@@ -1,7 +1,7 @@
 state = {
-    id = 1243
-    name="STATE_1243" #Eastern Pelly Mountains
-    manpower = 15
+    id = 1295
+    name="STATE_1295"
+    manpower = 0
     state_category = rural
 
     history = {
@@ -10,7 +10,7 @@ state = {
     }
 
     provinces = {
-        17240 23463 24963
+        22739 25102
     }
 
     local_supplies = 0
