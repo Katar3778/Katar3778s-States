@@ -1,0 +1,17 @@
+state = {
+    id = 1306
+    name="STATE_1306"
+    manpower = 40000
+    state_category = rural
+
+    history = {
+    	owner = MEX
+		add_core_of = MEX
+    }
+
+    provinces = {
+        25331 25338
+    }
+
+    local_supplies = 0
+}
