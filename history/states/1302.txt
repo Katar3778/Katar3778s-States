@@ -1,6 +1,6 @@
 state = {
     id = 1302
-    name="STATE_1302"
+    name="STATE_1302" #Eagle Mountains
     manpower = 160000
     state_category = rural
 

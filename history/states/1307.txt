@@ -1,6 +1,6 @@
 state = {
     id = 1307
-    name="STATE_1307"
+    name="STATE_1307" #Peloncillo Mountains
     manpower = 240000
     state_category = rural
 
@@ -10,7 +10,7 @@ state = {
     }
 
     provinces = {
-        17300 22140 25169 25203 25299 25303 25304 25321 25322 25334 25335
+        17300 25169 25299 25303 25321 25322 25334
     }
 
     local_supplies = 0

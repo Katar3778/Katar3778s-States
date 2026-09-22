@@ -1,6 +1,6 @@
 state = {
     id = 1299
-    name="STATE_1299"
+    name="STATE_1299" #San Mateo Mountains
     manpower = 240000
     state_category = rural
 

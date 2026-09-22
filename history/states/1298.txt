@@ -1,6 +1,6 @@
 state = {
     id = 1298
-    name="STATE_1298"
+    name="STATE_1298" #Mogollon Mountains
     manpower = 780000
     state_category = rural
 

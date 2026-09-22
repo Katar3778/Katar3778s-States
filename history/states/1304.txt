@@ -1,6 +1,6 @@
 state = {
     id = 1304
-    name="STATE_1304"
+    name="STATE_1304" #Zuni Mountains
     manpower = 100000
     state_category = rural
 

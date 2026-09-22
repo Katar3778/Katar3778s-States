@@ -1,7 +1,7 @@
 state = {
     id = 1310
-    name="STATE_1310"
-    manpower = 0
+    name="STATE_1310" #Chuska Mountains
+    manpower = 120000
     state_category = rural
 
     history = {

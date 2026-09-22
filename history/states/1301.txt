@@ -1,6 +1,6 @@
 state = {
     id = 1301
-    name="STATE_1301"
+    name="STATE_1301" #Canadian River Breaks
     manpower = 260000
     state_category = rural
 

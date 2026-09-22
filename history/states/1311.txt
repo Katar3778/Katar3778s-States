@@ -1,6 +1,6 @@
 state = {
     id = 1311
-    name="STATE_1311"
+    name="STATE_1311" #Tres Hermanas Mountains
     manpower = 90000
     state_category = rural
 

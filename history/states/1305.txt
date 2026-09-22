@@ -1,6 +1,6 @@
 state = {
     id = 1305
-    name="STATE_1305"
+    name="STATE_1305" #Florida Mountains
     manpower = 90000
     state_category = rural
 
@@ -10,7 +10,7 @@ state = {
     }
 
     provinces = {
-        20295 21926 22116 24474 25183 25277 25302 25316
+        20295 21926 22116 24474 25183 25277 25302 25304 25316 25335
     }
 
     local_supplies = 0

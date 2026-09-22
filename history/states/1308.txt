@@ -1,7 +1,7 @@
 state = {
     id = 1308
-    name="STATE_1308"
-    manpower = 0
+    name="STATE_1308" #Carrizo Mountains
+    manpower = 140000
     state_category = rural
 
     history = {
