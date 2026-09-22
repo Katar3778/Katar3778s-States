@@ -21622,7 +21622,7 @@
 21621;212;68;35;land;false;urban;1
 21622;255;242;0;land;true;plains;1
 21623;153;217;234;land;true;plains;1
-21624;255;127;39;land;false;plains;1
+21624;255;127;39;land;true;plains;1
 21625;0;6;79;land;false;forest;1
 21626;0;6;80;land;false;hills;1
 21627;0;6;81;land;false;forest;1
@@ -22577,7 +22577,7 @@
 22576;88;220;34;land;false;mountain;2
 22577;67;177;137;land;false;mountain;2
 22578;103;33;133;land;false;mountain;2
-22579;50;222;250;land;false;mountain;2
+22579;50;222;250;land;true;mountain;2
 22580;149;106;5;land;false;forest;2
 22581;211;155;148;land;false;forest;2
 22582;218;141;142;land;false;forest;2
