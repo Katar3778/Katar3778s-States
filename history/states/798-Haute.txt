@@ -11,10 +11,13 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
+		victory_points = {
+			804 5 
+		}
 	}
 
 	provinces={
-		933 3807 3862 3964 11826 11844 16262 18470
+		804 933 3807 3862 3964 11826 11844 16262 18470 25342 25353 25375 25377 25395 25509 25514 25613 25641
 	}
 
 	buildings_max_level_factor=1.000

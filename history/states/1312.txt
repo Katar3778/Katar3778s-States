@@ -1,7 +1,7 @@
 state = {
     id = 1312
-    name="STATE_1312"
-    manpower = 0
+    name="STATE_1312" #Mescalero Ridge
+    manpower = 100000
     state_category = rural
 
     history = {

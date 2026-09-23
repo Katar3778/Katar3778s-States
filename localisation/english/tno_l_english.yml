@@ -271,6 +271,8 @@ STATE_388:0 "Western Montana"
  STATE_1309:0 "Lukachukai Mountains"
  STATE_1310:0 "Chuska Mountains"
  STATE_1311:0 "Tres Hermanas Mountains"
+ STATE_1312:0 "Mescalero Ridge"
+ STATE_1313:0 "Van Horn Mountains"
 
 #Strategic Regions
  STRATEGICREGION_15:0 "Southern Moskowien"
