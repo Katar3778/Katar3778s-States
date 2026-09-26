@@ -24,13 +24,7 @@ state = {
 			1117 10 # Niigata
 		}
 
-		victory_points = {
-			10128 1 # Toyama
-		}
 
-		victory_points = {
-			10015 10 # Nagano
-		}
 
 	}
 

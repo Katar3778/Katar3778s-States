@@ -6,6 +6,9 @@ state={
 	state_category = large_city
 
 	history={
+		victory_points = {
+			3458 5
+		}
 		owner = POL
 		victory_points = {
 			3544 25
@@ -24,7 +27,7 @@ state={
 	}
 
 	provinces={
-		402 524 3458 3482 3544 6511 9400 12562 15680 15682 19167 19181 19182 19183 
+		402 524 3458 3482 3544 6511 9400 12562 15680 19167 19181 19182 19183
 	}
 
 	local_supplies=7.0 

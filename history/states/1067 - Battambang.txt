@@ -4,6 +4,9 @@ state = {
 	manpower = 1122000
 
 	history = {
+		victory_points = {
+			4302 2 # Siem Reap
+		}
 
 		owner = FRA
 		add_core_of = CAM

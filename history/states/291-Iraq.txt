@@ -19,9 +19,6 @@ state = {
 			2097 10 # Baghdad
 		}
 		victory_points = {
-			7994 1 # Karbala 
-		}
-		victory_points = {
 			3795 2 # Tikrit 
 		}
 

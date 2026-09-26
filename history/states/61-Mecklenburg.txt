@@ -7,6 +7,9 @@ state = {
 	state_category = town
 
 	history = {
+		victory_points = {
+			3258 1 # Neustrelitz 
+		}
 
 		owner = GER
 		add_core_of = GER

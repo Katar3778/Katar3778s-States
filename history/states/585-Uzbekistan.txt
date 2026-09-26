@@ -3,6 +3,9 @@ state = {
 	name = "STATE_585" #Navoiy
 
 	history = {
+		victory_points = {
+			1573 2
+		}
 		
 		owner = SOV
 		buildings = {
@@ -12,9 +15,6 @@ state = {
 		add_core_of = SOV
 		add_core_of = UZB
 		
-		victory_points = {
-			1554 1 
-		}
 		
 	}
 

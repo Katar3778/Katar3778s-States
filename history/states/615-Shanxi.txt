@@ -10,6 +10,9 @@ state = {
 	state_category = town
 	
 	history = {
+		victory_points = {
+			7158 1 # Ulanqab 
+		}
 
 		owner = SHX
 		add_core_of = SHX

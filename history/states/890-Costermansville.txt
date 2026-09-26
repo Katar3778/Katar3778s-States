@@ -9,6 +9,9 @@ state = {
 	}
 	
 	history = {
+		victory_points = {
+			2024 1 # Bakwanga
+		}
 
 		owner = BEL
 		add_core_of = COG
@@ -23,9 +26,6 @@ state = {
 			}
 		}
 
-		victory_points = {
-			4941 1 # Albertville
-		}
 
 		buildings = {
 			infrastructure = 1

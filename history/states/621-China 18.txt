@@ -16,9 +16,6 @@ state = {
 		add_core_of = PRC
 		add_core_of = MEN
 
-		victory_points = {
-			7158 1 # Ulanqab 
-		}
 
 		victory_points = {
 			7631 1 # Kweisui/Hohhot 

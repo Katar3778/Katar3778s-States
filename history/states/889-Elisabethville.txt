@@ -9,6 +9,9 @@ state = {
 	}
 
 	history = {
+		victory_points = {
+			4941 1 # Albertville
+		}
 
 		owner = BEL
 

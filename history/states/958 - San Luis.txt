@@ -16,9 +16,6 @@ state = {
 
 		}
 		
-		victory_points = {
-			12942 2 # Córdoba
-		}
 
 	}
 

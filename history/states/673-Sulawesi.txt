@@ -10,6 +10,9 @@ state={
 
 
 	history= {
+		victory_points = {
+			10322 10
+		}
 		owner = INS
 		add_core_of = GOW
 		victory_points = {

@@ -11,6 +11,9 @@ state = {
 	manpower = 980164
 
 	history = {
+		victory_points = {
+			7994 1 # Karbala 
+		}
 
 		owner = IRQ
 		add_core_of = IRQ

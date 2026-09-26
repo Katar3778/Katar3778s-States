@@ -16,9 +16,6 @@ state = {
 			infrastructure = 2		
 		}
 
-		victory_points = {
-			10076 3 # Suzhou
-		}
 
 		victory_points = {
 			4091 1 # Nantong

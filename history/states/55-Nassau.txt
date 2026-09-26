@@ -39,9 +39,6 @@ state = {
 			6444 2 # Wiesbaden
 		}
 
-		victory_points = {
-			11560 2 # Mainz
-		}
 
 		1939.1.1 = {
 			buildings = {

@@ -8,6 +8,12 @@ state={
 	state_category = town
 
 	history={
+		victory_points = {
+			9612 3 #Ruse
+		}
+		victory_points = {
+			6814 3 #Stara Zagora
+		}
 		owner = BUL
 		victory_points = { #Varna
 			9783 5

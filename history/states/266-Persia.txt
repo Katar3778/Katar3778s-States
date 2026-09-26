@@ -11,6 +11,9 @@ state={
 	state_category = city
 
 	history={
+		victory_points = {
+			7969 5
+		}
 		owner = PER
 		buildings = {
 			infrastructure = 2
@@ -29,9 +32,6 @@ state={
 		}
 		victory_points = {
 			10837 10 # Tehran 
-		}
-		victory_points = {
-			7602 2 # Esterabad 
 		}
 		add_core_of = PER
 	}

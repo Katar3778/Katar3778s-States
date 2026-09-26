@@ -13,10 +13,7 @@ state = {
 		owner = ENG
 		add_core_of = MAL
 
-		victory_points = {
-			13408 1 # Seberang Perai 
-		}
-
+		
 		buildings = {
 
 			infrastructure = 2
@@ -31,7 +28,7 @@ state = {
 	}
 
 	provinces = {
-		13408
+		
 	}
 
 	local_supplies = 0.0 

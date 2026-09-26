@@ -5,6 +5,9 @@ state = {
 	state_category = large_city
 
 	history = {
+		victory_points = {
+			10015 10 # Nagano
+		}
 
 		owner = JAP
 		add_core_of = JAP

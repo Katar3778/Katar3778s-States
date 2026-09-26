@@ -12,6 +12,9 @@ state={
 		7584 10781 10852 12248 12314 12877 14748 14753 14758 18642 18660 18666 18690 
 	}
 	history={
+		victory_points = {
+			10781 1
+		}
 		owner = AFG
 		buildings = {
 			infrastructure = 1 

@@ -16,9 +16,6 @@ state = {
 		owner = BRM
 		add_core_of = BRM
 
-		victory_points = {
-			4202 1 # Yenangyaung
-		}
 
 		buildings = {
 			infrastructure = 1

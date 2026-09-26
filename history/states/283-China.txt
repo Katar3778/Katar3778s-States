@@ -6,6 +6,9 @@ state = {
 	}
 
 	history = {
+		victory_points = {
+			5193 1 # Minsien
+		}
 		owner = XSM
 		add_core_of = XSM
 		add_core_of = CHI

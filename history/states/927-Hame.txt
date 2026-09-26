@@ -7,6 +7,9 @@ state = {
 	state_category = rural
 	
 	history = {
+		victory_points = {
+			6009 1 #Porvoo
+		}
 		owner = FIN
 		add_core_of = FIN
 

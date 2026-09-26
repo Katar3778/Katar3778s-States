@@ -19,9 +19,6 @@ state = {
 			arms_factory = 1
 		}
 
-		victory_points = {
-			3583 5 # Ostrava
-		}
 
 		victory_points = {
 			3414 2 # Opava

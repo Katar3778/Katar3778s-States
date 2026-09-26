@@ -20,9 +20,6 @@ state = {
 			11360 1 # Emden
 		}
 
-		victory_points = {
-			11388 5 # Münster
-		}
 
 		buildings = {
 			infrastructure = 3

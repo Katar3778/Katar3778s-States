@@ -8,6 +8,12 @@ state={
 	}
 
 	history={
+		victory_points = {
+			7676 1 #Erdenet, was in 1834 before
+		}
+		victory_points = {
+			7717 2 #Darkhan, was in 1791 before
+		}
 		owner = MON
 		victory_points = {
 			4801 10
