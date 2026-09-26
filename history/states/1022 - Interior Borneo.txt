@@ -8,7 +8,6 @@ state = {
 	force_link_ownership_to = 334 # Kalimantan
 
 	resources = {
-		oil = 1
 	}
 	
 	state_category = enclave

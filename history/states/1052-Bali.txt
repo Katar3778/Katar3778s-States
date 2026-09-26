@@ -1,18 +1,30 @@
 state={
 	id=1052
 	name="STATE_1052"
-	state_category=small_island
-	manpower=100000
 	resources={
-		rubber=1
+		
 	}
 
 	history={
-		owner = ENG
+		owner = INS
+		add_core_of = BLI
+		buildings = {
+			infrastructure = 1
+			13386 = {
+				naval_base = 1
 			}
+		}
+
+		victory_points = {
+			13386 3 # Denpassar
+		}
+	}
 
 	provinces={
-		1
+		13385 13386 19326 
 	}
+	manpower = 1029335
+	state_category = small_island
+
 	local_supplies=0.0 
 }

@@ -18,9 +18,6 @@ state={
 		victory_points = {
 			11561 1
 		}
-		victory_points = {
-			11405 1 # Zaporozhe
-		}
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
@@ -31,7 +28,7 @@ state={
 	}
 
 	provinces={
-		453 472 486 3399 3449 6423 9419 9433 9463 9479 11405 11422 11437 11452 11561 15818 18231 18244 20182 20689
+		453 472 486 6423 9419 9433 9463 9479 11422 11437 11452 11561 3449 18244 18231
 	}
 
 	local_supplies=0.0 

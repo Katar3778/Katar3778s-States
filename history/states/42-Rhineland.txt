@@ -29,6 +29,10 @@ state = {
 			9575 3 # Trier
 		}
 
+		victory_points = { 
+			11531 5 # Saarbrücken
+		}
+
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 3
@@ -68,7 +72,7 @@ state = {
 	}
 
 	provinces = {
-		563 3423 3558 9575 11435 11470 11494 11547 11560 15848 15849 15852 18137 21649 21708
+		563 3423 3558 9575 11435 11470 11494 11531 11547 11560 15848 15849 15852 18136 18137 
 	}
 	
 	local_supplies = 0.0 

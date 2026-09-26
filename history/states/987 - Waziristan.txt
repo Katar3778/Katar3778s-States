@@ -7,13 +7,12 @@ state={
 	state_category = rural
 	
 	resources={
-		oil = 1
+
 	}
 
 	history={
 		owner = RAJ
 		buildings = {
-			infrastructure = 1
 		}
 		add_core_of = NWF
 		add_core_of = PAK
@@ -21,10 +20,13 @@ state={
 		set_compliance = 0
 		start_resistance = yes
 		set_resistance =  70
+		buildings = {
+			infrastructure = 1
+		}
 	}
 
 	provinces={
-		1978 4998 15997 15998 16001 16002 16003 18868 20778 20827
+		1978 4998 15997 15998 16001 16002 16003 18868 
 	}
 
 	local_supplies=0.0 

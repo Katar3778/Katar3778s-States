@@ -11,7 +11,9 @@ state={
 
 	history={
 		owner = ENG
-		
+		victory_points = {
+			3369 5 
+		}
 		buildings = {
 			infrastructure = 4 #was: 7
 			arms_factory = 1
@@ -22,13 +24,10 @@ state={
 			}
 		}
 		add_core_of = ENG
-		victory_points = {
-			3369 5 
-		}
 	}
 
 	provinces={
-		3369 6221 6351 6378 9239 11471 16325
+		3369 6221 6351 6378 9239 9484 11471 16325 
 	}
 
 	local_supplies=0.0 

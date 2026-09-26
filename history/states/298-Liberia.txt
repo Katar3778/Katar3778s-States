@@ -23,16 +23,10 @@ state=
 		victory_points = {
 			7959 3
 		}
-		victory_points = {
-			13407 3 #Surakarta
-		}
-		victory_points = {
-			13404 1 #Purwokerto
-		}
 		add_core_of = LIB
 	}
 	provinces={
-		4580 6759 7959 8006 13397 13400 13401 13404 13407 15289 15290 15291
+		4580 6759 7959 8006 15289 15290 15291 15665 15695 19219 19354 19357 
 	}
 
 	local_supplies=0.0 

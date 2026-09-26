@@ -7,13 +7,18 @@ state = {
 		owner = SOV
 		buildings = {
 			infrastructure = 1
+			12207 = {
+				naval_base = 1
+
+			}
+
 		}
 		add_core_of = SOV
 		add_core_of = FER
 	}
 
 	provinces = {
-		1823 1839 1863 4728 4744 5936 5972 7878 8437 8654 12522 16964 20096 20243 20742 20878
+		1823 1839 1863 4728 7878 12207 12522 8437 16964 5936 8654 5972 4744
 	}
 	manpower = 48831
 	buildings_max_level_factor = 1

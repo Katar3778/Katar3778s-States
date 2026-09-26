@@ -11,12 +11,9 @@ state={
 			infrastructure = 2
 		}
 		add_core_of = PER
-		victory_points = {
-			7602 2 # Esterabad 
-		}
 	}
 	provinces={
-		1521 7573 7602 10351 15143 15156 18739 18754 18779 18789 18791 18811 18814
+		1521 7573 7602 10351 15143 15156 18739 18754 18779 18789 18791 18811 18814 
 	}
 
 	local_supplies=0.0 

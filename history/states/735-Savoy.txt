@@ -11,8 +11,7 @@ state = {
 		owner = FRA
 		add_core_of = OCC
 		add_core_of = FRA
-		add_core_of = ITA
-		add_core_of = SPM
+		add_claim_by = SPM
 
 		victory_points = {
 			778 1 # Annecy
@@ -37,7 +36,7 @@ state = {
 	}
 
 	provinces = {
-		764 778 3764 6609 6975 9603 9736 9909 11573 13580 13584 14639 17994 17995 21748 21751 21756 21760 21761 21779 21781 21786 21792 21794 21797 21801 21803 21805 21806 21807
+		778 3764 6609 6975 9603 9745 9909 11573 14639 17994 17995 
 	}
 	
 	buildings_max_level_factor = 1.000

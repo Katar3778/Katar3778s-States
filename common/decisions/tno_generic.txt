@@ -371,7 +371,7 @@ antarctica_decisions = {
 									}
 									OR = {
 										is_claimed_by = ROOT
-										is_claimed_by = ROOT
+										has_state_flag = strongest_claimant_@ROOT
 									}
 								}
 								is_owned_by = ROOT

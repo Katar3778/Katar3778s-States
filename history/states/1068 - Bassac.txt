@@ -9,6 +9,7 @@ state = {
 
 		owner = FRA
 		add_core_of = LAO
+		add_core_of = CPS
 
 		victory_points = {
 			1592 1 # Champasak 
@@ -25,7 +26,7 @@ state = {
 	}
 
 	provinces = {
-		1374 1563 1592 4554 7426 12210 14075 15099 19044 20057 20227 20670 20722
+		1374 1563 1592 4554 7426 12210 14075 15099 19044 
 	}
 
 	local_supplies = 0.0 

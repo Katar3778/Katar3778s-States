@@ -1,14 +1,12 @@
 antarctic_research_bonus = {
     enable = {
 		ROOT = {
-			controls_state = ROOT
+			controls_state = yes
 		}
 	}
-	remove_trigger = {
-		NOT = {
-			ROOT = {
-				controls_state = ROOT
-			}
+	remove_trigger = { 
+		ROOT = {
+			controls_state = no
 		}
 	}
 	

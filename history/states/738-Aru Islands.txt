@@ -5,7 +5,7 @@ state = {
 	history={
 
 		owner = INS
-		add_core_of = INS
+		add_core_of = TNE
 
 		victory_points = {
 			4579 1 # Dobo  
@@ -17,13 +17,16 @@ state = {
 				naval_base = 1
 			}
 
+			13400 = {
+				naval_base = 1
+			}
 
 		}
 
 	}
 
 	provinces = {
-		4579 19231 19280 19353 19354
+		4579 13400 19231 19280 19353 
 	}
 	manpower = 36146
 	buildings_max_level_factor = 1	

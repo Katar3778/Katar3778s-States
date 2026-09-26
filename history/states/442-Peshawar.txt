@@ -6,7 +6,7 @@ state={
 	resources={
 		steel=3
 	}
-	state_category = rural
+	state_category = wasteland
 
 	history={
 		victory_points = {
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		12717 12763 15999 16000 16004 18853 18884
+		4558 12717 12763 15999 16000 16004 16006 18853 18884 
 	}
 
 	local_supplies=5.0 

@@ -10,13 +10,16 @@ state = {
 		add_core_of = SOV
 		add_core_of = UKR
 
-		
+		victory_points = {
+			11405 1 # Zaporozhe
+		}
 
 		buildings = {
 			infrastructure = 3 #was: 5
 			air_base = 3
 
 			# Dnieprostroi Hydroelectric Station
+			11405 = { dam = 1 }
 			
 		}
 		
@@ -28,7 +31,7 @@ state = {
 	}
 
 	provinces = {
-		429 588 3573 3767 6596 9571 9729 11700 14394 14530 14531 18234
+		429 588 3399 3767 6596 9571 9729 11405 11700 14394 14530 15818 18234 
 	}
 
 	local_supplies = 0.0 

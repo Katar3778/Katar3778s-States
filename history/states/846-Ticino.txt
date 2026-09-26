@@ -17,7 +17,7 @@ state={
 		add_core_of = SWI
 	}
 	provinces={
-		3641 9600 18147
+		3641 9600 18147 
 	}
 	local_supplies=0.0  
 }

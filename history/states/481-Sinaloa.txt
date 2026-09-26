@@ -15,6 +15,9 @@ state={
 		buildings = {
 			infrastructure = 2
 			dockyard = 1
+			8057 = {
+				naval_base = 3
+			}
 		}
 		add_core_of = MEX
 		victory_points = {
@@ -29,7 +32,7 @@ state={
 	}
 
 	provinces={
-		4946 7921 10738 10853 10895 12804 17025 17035 17063 17310
+		1945 2496 4946 7921 8003 8057 10738 10853 10871 10895 12804 14525 17025 17035 17063 17310 17322 
 	}
 	
 

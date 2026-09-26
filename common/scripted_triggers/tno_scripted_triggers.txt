@@ -124,17 +124,15 @@ form_antarctic_department_trigger = {
 	if = { #Generic countries
 		limit = {
 			NOT = {
-				OR = {
-					original_tag = ARG
-					original_tag = AST
-					original_tag = CHL
-					original_tag = FRA
-					original_tag = GER
-					original_tag = NZL
-					original_tag = NOR
-					original_tag = ENG
-					original_tag = USA
-				}
+				original_tag = ARG
+				original_tag = AST
+				original_tag = CHL
+				original_tag = FRA
+				original_tag = GER
+				original_tag = NZL
+				original_tag = NOR
+				original_tag = ENG
+				original_tag = USA
 			}
 		}
 		OR = {
@@ -166,7 +164,9 @@ can_claim_antarctica = {
 			is_ai = no #Don't want AI Sweden claiming Antarctica
 			has_capitulated = no #?????
 		}
+		#OR = {
 		historical_antarctic_claimants = yes
+		#}
 	}
 }
 
@@ -185,7 +185,7 @@ historical_antarctic_claimants = {
 }
 
 all_historical_antarctic_claimants = {
-	OR = {
+	AND = {
 		original_tag = ARG
 		original_tag = AST
 		original_tag = CHL

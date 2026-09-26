@@ -236,7 +236,7 @@ adjacency_rule =
 	required_provinces = { 849 6864 }
 
 	is_disabled = {
-		has_country_flag = DARDENELLES_STRAIT_BLOCKED_FOR_COUNTRY
+		has_country_flag = DARDANELLES_STRAIT_BLOCKED_FOR_COUNTRY
 		tooltip = dardanelles_strait_blocked_tt
 	}
 	
@@ -410,56 +410,74 @@ adjacency_rule =
 	
 	required_provinces = {
 		11559 9417 585 11418 426 18304 11403 449 3464 3478 6490 14441 6503 9474 3505 6527 17440 11447 18335 498 520 3487 6516 3461 6486 9440 9455 11579 11429 9735 6620 11706 9753 6758 757
-	}
-
+	} 
+		
 	icon = 6527
 	offset = { 4 0 0 }
 }
 
-#Marmara Strait (Bosphorus) - required_provinces still use vanilla IDs, need remapping to this map's province numbering
-adjacency_rule =
-{
-	name = "BOSPHORUS_STRAIT"
+#McClure Strait
+adjacency_rule = {
+	name = "MCCLURE_STRAIT"
 
-	is_friend = {
-		TUR_is_friend_for_bosphorus = yes
-	}
-	contested =
-	{
+	contested = {
 		army = no
 		navy = no
-		submarine = no
+		submarine = yes
 		trade = no
 	}
-	enemy =
-	{
+	enemy = {
 		army = no
 		navy = no
-		submarine = no
+		submarine = yes
 		trade = no
 	}
-	friend =
-	{
+	friend = {
 		army = yes
 		navy = yes
 		submarine = yes
 		trade = yes
 	}
-	neutral =
-	{
-		army = no
-		navy = no
-		submarine = no
+	neutral = {
+		army = yes
+		navy = yes
+		submarine = yes
 		trade = yes
 	}
+	required_provinces = { 16853 17219 }
+	icon = 17135
+	offset = { 0 0 0 }
+}
 
-	required_provinces = { 9833 11829 }
+#Lancaster Sound
+adjacency_rule = {
+	name = "LANCASTER_SOUND"
 
-	is_disabled = {
-		has_country_flag = BOSPHORUS_STRAIT_BLOCKED_FOR_COUNTRY
-		tooltip = bosporus_strait_blocked_tt
+	contested = {
+		army = no
+		navy = no
+		submarine = yes
+		trade = no
 	}
-
-	icon = 9833
-	offset = { -2 0 -9 }
+	enemy = {
+		army = no
+		navy = no
+		submarine = yes
+		trade = no
+	}
+	friend = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	required_provinces = { 16865 16862 }
+	icon = 16934
+	offset = { 0 0 0 }
 }

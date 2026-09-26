@@ -31,13 +31,16 @@ state = {
 			industrial_complex = 2
 			air_base = 1
 
+			13409 = {
+				naval_base = 5
+			}
 
 		}
 		
 	}
 
 	provinces = {
-		4412 7427 10297 14696 19072 19103 19337 19341
+		4412 7427 10297 13409 19072 19103 19337 19341 
 	}
 
 	local_supplies = 0.0 

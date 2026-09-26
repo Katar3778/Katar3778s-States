@@ -40,6 +40,7 @@ economy_decisions = {
 			custom_effect_tooltip = VOLGA_DON_BUILT_tt
 		}
 		highlight_states = {
+			highlight_state_targets = {}
 			highlight_provinces = {
 				18335 17440 #498 18335 6527 17440 11447
 			}
@@ -90,13 +91,6 @@ political_actions = {
 		complete_effect = {
 			set_country_flag = antarctica_department
 			custom_effect_tooltip = antarctica_department_tt
-			if = {
-				limit = { always = no }
-				set_global_flag = LATE_ANTARCTIC_EXPANSION
-				set_global_flag = someone_claimed_antarctica
-				set_global_flag = dont_care_about_others_claiming_antarctica
-				set_global_flag = AGGRESSIVE_ANTARCTIC_EXPANSION
-			}
 		}
 		cost = 50
 
@@ -877,6 +871,9 @@ antarctica_decisions = {
 			}
 		}
 		highlight_states = {
+			highlight_state_targets = {
+				#state = 1113 #PRINCESS_ASTRID_COAST
+			}
 			highlight_provinces = { 17695 }
 			highlight_color_while_active = 3
 			highlight_color_before_active = 2
@@ -2107,7 +2104,6 @@ antarctica_decisions = {
 		complete_effect = {
 			hidden_effect = { add_command_power = -50 }
 			set_country_flag = is_establishing_antarctic_base
-			
 		}
 		custom_cost_trigger = {
 			command_power > 50
@@ -2209,12 +2205,12 @@ antarctica_decisions = {
 					VALUE = "1"
 				}
 				custom_effect_tooltip = generic_skip_one_line_tt
+				add_building_construction = {
+					type = naval_base
+					level = 1
+					province = 17785
+				}
 				1084 = {
-					add_building_construction = {
-						type = naval_base
-						level = 1
-						province = 17785
-					}
 					set_state_flag = antarctic_base
 				}
 				clr_country_flag = is_establishing_antarctic_base
@@ -2310,10 +2306,8 @@ antarctica_decisions = {
 		remove_effect = {
 			ROOT = {
 				transfer_state = 1083 #PRINCESS_RAGNHILD_COAST
-				hidden_effect = {
-					set_victory_points = { province = 17799 value = 1 } #Riiser-Larsen Stasjonen
-					set_province_name = { id = 17799 name = BASE_VICTORY_POINTS_17799 }
-				}
+				hidden_effect = { set_victory_points = { province = 17799 value = 1 } #Riiser-Larsen Stasjonen
+				set_province_name = { id = 17799 name = BASE_VICTORY_POINTS_17799 } }
 				custom_effect_tooltip = generic_skip_one_line_tt
 				custom_effect_tooltip = {
 					localization_key = create_antarctic_base
@@ -2321,30 +2315,31 @@ antarctica_decisions = {
 					VALUE = "1"
 				}
 				custom_effect_tooltip = generic_skip_one_line_tt
+				add_building_construction = {
+					type = naval_base
+					level = 1
+					province = 17799
+				}
 				1083 = {
-					add_building_construction = {
-						type = naval_base
-						level = 1
-						province = 17799
-					}
 					set_state_flag = antarctic_base
 				}
 				clr_country_flag = is_establishing_antarctic_base
 			}
 		}
-		highlight_states = {
-			highlight_state_targets = {
-				state = 1083 #PRINCESS_RAGNHILD_COAST
-			}
-			highlight_color_while_active = 3
-			highlight_color_before_active = 2
-		}
+        highlight_states = {
+            highlight_state_targets = {
+                state = 1083 #PRINCESS_RAGNHILD_COAST
+            }
+            highlight_color_while_active = 3
+            highlight_color_before_active = 2
+        }
 
 		modifier = { consumer_goods_factor = 0.1 }
 
 		complete_effect = {
 			hidden_effect = { add_command_power = -25 }
 			set_country_flag = is_establishing_antarctic_base
+			
 		}
 		custom_cost_trigger = {
 			command_power > 25
@@ -2446,12 +2441,12 @@ antarctica_decisions = {
 					VALUE = "1"
 				}
 				custom_effect_tooltip = generic_skip_one_line_tt
+				add_building_construction = {
+					type = naval_base
+					level = 1
+					province = 17808
+				}
 				1098 = {
-					add_building_construction = {
-						type = naval_base
-						level = 1
-						province = 17808
-					}
 					set_state_flag = antarctic_base
 				}
 				clr_country_flag = is_establishing_antarctic_base
@@ -2556,12 +2551,12 @@ antarctica_decisions = {
 					VALUE = "1"
 				}
 				custom_effect_tooltip = generic_skip_one_line_tt
+				add_building_construction = {
+					type = naval_base
+					level = 1
+					province = 17786
+				}
 				1115 = {
-					add_building_construction = {
-						type = naval_base
-						level = 1
-						province = 17786
-					}
 					set_state_flag = antarctic_base
 				}
 				clr_country_flag = is_establishing_antarctic_base
@@ -2666,12 +2661,12 @@ antarctica_decisions = {
 					VALUE = "1"
 				}
 				custom_effect_tooltip = generic_skip_one_line_tt
+				add_building_construction = {
+					type = naval_base
+					level = 1
+					province = 17790
+				}
 				1114 = {
-					add_building_construction = {
-						type = naval_base
-						level = 1
-						province = 17790
-					}
 					set_state_flag = antarctic_base
 				}
 				clr_country_flag = is_establishing_antarctic_base
@@ -2774,12 +2769,12 @@ antarctica_decisions = {
 					VALUE = "1"
 				}
 				custom_effect_tooltip = generic_skip_one_line_tt
+				add_building_construction = {
+					type = naval_base
+					level = 1
+					province = 17814
+				}
 				1085 = {
-					add_building_construction = {
-						type = naval_base
-						level = 1
-						province = 17814
-					}
 					set_state_flag = antarctic_base
 				}
 				clr_country_flag = is_establishing_antarctic_base
@@ -2900,15 +2895,15 @@ antarctica_decisions = {
 					VALUE = "1"
 				}
 				custom_effect_tooltip = generic_skip_one_line_tt
-				clr_country_flag = is_establishing_antarctic_base
-			}
-			1102 = {
 				add_building_construction = {
 					type = naval_base
 					level = 1
 					province = 17802
 				}
-				set_state_flag = antarctic_base
+				1102 = {
+					set_state_flag = antarctic_base
+				}
+				clr_country_flag = is_establishing_antarctic_base
 			}
 		}
         highlight_states = {
@@ -3010,12 +3005,12 @@ antarctica_decisions = {
 					VALUE = "1"
 				}
 				custom_effect_tooltip = generic_skip_one_line_tt
+				add_building_construction = {
+					type = naval_base
+					level = 1
+					province = 17706
+				}
 				1112 = {
-					add_building_construction = {
-						type = naval_base
-						level = 1
-						province = 17706
-					}
 					set_state_flag = antarctic_base
 				}
 				clr_country_flag = is_establishing_antarctic_base
@@ -3136,12 +3131,12 @@ antarctica_decisions = {
 					VALUE = "1"
 				}
 				custom_effect_tooltip = generic_skip_one_line_tt
+				add_building_construction = {
+					type = naval_base
+					level = 1
+					province = 17791
+				}
 				1086 = {
-					add_building_construction = {
-						type = naval_base
-						level = 1
-						province = 17791
-					}
 					set_state_flag = antarctic_base
 				}
 				clr_country_flag = is_establishing_antarctic_base
@@ -3485,22 +3480,7 @@ antarctic_development = {
 			FROM = {
 				is_fully_controlled_by = ROOT
 				has_state_flag = antarctic_base
-				has_state_flag = {
-					flag = antarctic_base_expanded
-					value = 1
-				}
-				NOT = {
-					has_state_flag = {
-						flag = antarctic_base_expanded
-						value = 2
-					}
-				}
-				NOT = {
-					has_state_flag = {
-						flag = antarctic_base_expanded
-						value = 3
-					}
-				}
+				#region = 310
 				NOT = {
 					impassable = yes
 				}
@@ -3550,9 +3530,11 @@ antarctic_development = {
 			FROM = {
 				is_fully_controlled_by = ROOT
 				has_state_flag = antarctic_base
-				has_state_flag = {
-					flag = antarctic_base_expanded
-					value = 1
+				NOT = {
+					has_state_flag = {
+						flag = antarctic_base_expanded
+						value = 1
+					}
 				}
 				NOT = {
 					has_state_flag = {
@@ -3757,7 +3739,7 @@ antarctic_development = {
 		allowed = {
 		}
 		available = {
-			num_of_civilian_factories_available_for_projects > 5
+			num_of_civilian_factories_available_for_projects > 4
 		}
 		visible = {
 			any_state = {
@@ -3769,6 +3751,7 @@ antarctic_development = {
 		}
 		target_trigger = {
 			FROM = {
+				always = no #for update 1.2 TODO
 				is_fully_controlled_by = ROOT
 				has_state_flag = antarctic_base
 				has_state_flag = {
@@ -3788,6 +3771,11 @@ antarctic_development = {
 		complete_effect = {
 			FROM = {
 				set_state_flag = has_research_lab
+				state_event = {
+					id = antarctica.2
+					trigger_for = controller
+					days = 1 #70
+				}
 			}
 		}
 		remove_effect = {
@@ -3927,7 +3915,7 @@ antarctic_development = {
 		days_remove = 35
 		allowed = { original_tag = GER }
 		available = {
-			has_country_flag = is_antarctica_claimant
+			has_country_flag = GER_can_flee_to_antarctica
 			any_core_state = {
 				is_controlled_by = ROOT
 				arms_factory > 0
@@ -3950,7 +3938,7 @@ antarctic_development = {
 		visible = {
 			surrender_progress > 0.1
 			original_tag = GER
-			has_country_flag = is_antarctica_claimant
+			has_country_flag = GER_can_flee_to_antarctica
 			NOT = { has_global_flag = ZZZ_isnt_ai }
 			any_core_state = {
 				is_controlled_by = ROOT
@@ -4027,7 +4015,7 @@ antarctic_development = {
 		days_remove = 35
 		allowed = { original_tag = GER }
 		available = {
-			has_country_flag = is_antarctica_claimant
+			has_country_flag = GER_can_flee_to_antarctica
 			any_core_state = {
 				is_controlled_by = ROOT
 				industrial_complex > 0
@@ -4050,7 +4038,7 @@ antarctic_development = {
 		visible = {
 			surrender_progress > 0.1
 			original_tag = GER
-			has_country_flag = is_antarctica_claimant
+			has_country_flag = GER_can_flee_to_antarctica
 			NOT = { has_global_flag = ZZZ_isnt_ai }
 			any_core_state = {
 				is_controlled_by = ROOT

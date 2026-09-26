@@ -18,7 +18,9 @@ state = {
 			3117 2 
 		}
 
-		
+		victory_points = { #Rauma
+			169 1 
+		}
 		
 		buildings = {
 			infrastructure = 2 #MM: Was 3
@@ -36,7 +38,7 @@ state = {
 	}
 
 	provinces = {
-		169 3083 3117 6066 9094 9194 13102 18425 18433 20014 20671
+		169 3083 3117 6066 9094 9194 13102 18425 18433 
 	}
 	
 	local_supplies = 0.0

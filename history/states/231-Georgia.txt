@@ -7,6 +7,20 @@ state = {
 		victory_points = {
 			1599 5 
 		}
+		victory_points = {
+			3653 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+			3653 = {
+				naval_base = 2
+				coastal_bunker = 1
+
+			}
+
+		}
 		add_core_of = SOV
 		add_core_of = GEO
 		1939.1.1 = {
@@ -20,7 +34,7 @@ state = {
 	}
 
 	provinces = {
-		654 672 1530 1599 3667 4534 4605 6436 6669 6671 6674 9626 9632 9702 11609 12309 15130 15133 18340 18346 18351 18355 18356 20829 21609 21610
+		654 672 772 1530 1599 3653 3656 3658 3667 4534 4605 6436 6669 6671 6674 9626 9632 9702 11599 11609 12309 15130 15133 16231 18338 18340 18346 18351 18355 18356 18357 
 	}
 	manpower = 2457844
 	buildings_max_level_factor = 1.000

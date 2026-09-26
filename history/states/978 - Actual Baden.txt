@@ -19,13 +19,12 @@ state = {
 			3530 10 #Karlsruhe
 		}
 
-		
+		victory_points = {
+			11640 1 #Müllheim
+		}
 
 		victory_points = {
 			6712 1 #Freiburg
-		}
-		victory_points = {
-			11640 1 #Müllheim
 		}
 
 		buildings = {
@@ -63,7 +62,7 @@ state = {
 	}
 
 	provinces = {
-		694 3530 3679 3692 6542 6568 6712 11640 21660 21747 21823 21824 21825
+		694 3530 3679 3692 6542 6568 6712 11640 
 	}
 	
 	buildings_max_level_factor = 1.000

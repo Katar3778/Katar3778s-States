@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = FRA
+		owner = LEB
 		victory_points = {
 			792 5 
 		}
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		792 1108 6636 8153 11919 18592 18595 18596 25644
+		792 1108 6636 8153 11919 18592 18595 18596 18597 
 	}
 
 	local_supplies=0.0 

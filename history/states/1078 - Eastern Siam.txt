@@ -2,7 +2,6 @@ state={
 	id=1078
 	name="STATE_1078"
 	resources={
-		oil=2
 	}
 	state_category=town
 	history={
@@ -20,7 +19,7 @@ state={
 	}
 
 	provinces={
-		1244 4433 7225 7292 10293 19029 19030 19126 20987
+		1244 4433 7225 7292 10293 19029 19030 19126 
 	}
 	manpower=723155
 	buildings_max_level_factor=1.000

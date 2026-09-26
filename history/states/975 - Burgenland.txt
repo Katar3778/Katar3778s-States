@@ -4,7 +4,6 @@ state = {
 	manpower = 298000
 
 	resources = {
-		steel = 1
 	}
 	
 	state_category = rural

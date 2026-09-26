@@ -30,10 +30,17 @@ state={
 			arms_factory = 2
 			industrial_complex = 2
 			air_base = 3
+			1047 = { # Guangzhou
+				naval_base = 5
+				coastal_bunker = 1
+				bunker = 1
+			}
 
 		}
 
-		
+		victory_points = {
+			1047 10 # Guangzhou
+		}
 
 		victory_points = {
 			12077 1 # Maoming
@@ -54,7 +61,7 @@ state={
 	}
 
 	provinces={
-		1087 1131 1187 4092 5783 7039 7152 8802 9963 11938 11941 12077 20046 20047
+		1047 1087 1131 1187 4092 5783 7039 7152 8802 9963 10105 11938 11941 12077 
 	}
 
 	local_supplies=1.0 
