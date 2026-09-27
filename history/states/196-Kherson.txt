@@ -16,9 +16,7 @@ state = {
 		add_core_of = UKR
 		add_core_of = CRI
 
-		victory_points = {
-			721 1 # Kherson
-		}
+		
 		
 		buildings = {
 			infrastructure = 3 #was: 5
@@ -32,7 +30,7 @@ state = {
 	}
 
 	provinces = {
-		568 721 737 767 3755 6771 9712 18245
+		568 737 767 3755 6771 9712 18245
 	}
 
 	local_supplies = 0.0 

@@ -1,7 +1,7 @@
 state= {
 	id=380
 	name="STATE_380"
-	manpower = 507846
+	manpower = 342000
 	
 	state_category = rural
 	
@@ -12,17 +12,15 @@ state= {
 
 	history={
 		owner = USA
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
 		add_core_of = USA
-		victory_points = {
-			4865 1 
-		}
 	}
 	provinces={
-		1663 1740 1756 4668 4742 4865 7764 7818 10582 10651 10662 12573 12699 13153 15347 17287
+		1663 1740 4742 7818 10651 10662 12573 12699 13153 15347 20337 20338 20339
 	}
 
 	local_supplies=0.0 

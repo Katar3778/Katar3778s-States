@@ -4,6 +4,12 @@ state={
 	name="STATE_843"
 
 	history={
+		owner = ETH
+		1936.6.1 = {
+			owner = AOI
+			controller = AOI
+		}
+
 		set_variable = {
 			843.ETH_state_development_production_speed = -0.3
 
@@ -27,21 +33,15 @@ state={
 		victory_points = {
 			5097 1 
 		}
-		owner = ETH
 		add_core_of = ETH
 		add_core_of = AFA
-		1936.6.1 = {
-			owner = ITA
-			controller = ITA
-
-		}
 
 	}
 
 	provinces={
-		5097 7944 15557 15558 
+		5097 14085 15557 15558 20145 20146
 	}
-	manpower=650000
+	manpower = 671000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000

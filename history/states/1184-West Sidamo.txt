@@ -1,0 +1,30 @@
+state={
+	id=1184
+	name="STATE_1184"
+	manpower = 146000
+	resources = {
+	}
+
+	state_category = rural
+
+	history={
+		owner = ETH
+		1936.6.1 = {
+			owner = AOI
+			controller = AOI
+		}
+		add_core_of = ETH
+		add_core_of = SID
+		add_core_of = ORO
+		victory_points = { 8019 1 }
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		8019 17908 17913 20270
+	}
+
+	local_supplies=0.0
+}

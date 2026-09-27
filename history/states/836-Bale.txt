@@ -1,13 +1,20 @@
 state = {
 	id = 836 # Bale
 	name = "STATE_836"
-	manpower = 800000
+	manpower = 873000
 	resources = {
 	}
 	
 	state_category = pastoral
 
 	history = {
+		owner = ETH
+		1936.6.1 = {
+			owner = AOI
+			controller = AOI
+		}
+
+		victory_points = { 8036 1 }
 		set_variable = { ETH_state_development_production_speed = -0.3 }
 		set_variable = { ETH_state_development_local_building_slots_factor = -0.3 }
 		#set_variable = { ETH_state_decentralization_defence = 0.2 }
@@ -29,20 +36,16 @@ state = {
 			10775 1
 		}
 		
-		owner = ETH
 		add_core_of = ETH
 		add_core_of = SOM
 		add_core_of = ORO
 
-		1936.6.1 = {
-			owner = ITA
-			controller = ITA
-		}
 	}
 
 	provinces = {
-		10775 13997 14017 14028 15548 15549 17883 17890 17898 17910 
- 	}
+		8036 10734 10775 14028 14064 15548 15549 17898 17910 20223 20224 20225 20226 20227 20228
+		20229 20230
+	}
 
 	local_supplies = 0.0 
 }

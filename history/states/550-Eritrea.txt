@@ -2,7 +2,7 @@ state=
 {
 	id=550
 	name="STATE_550"
-	manpower = 600600
+	manpower = 406000
 	resources = {
 		steel = 2
 	}
@@ -11,6 +11,7 @@ state=
 	
 	history={
 		owner = ITA
+
 		add_core_of = ERI
 		victory_points = { #Massaua
 			12766 1
@@ -30,7 +31,8 @@ state=
 		}
 	}
 	provinces={
-		5017 5047 5091 8043 12723 12766 13250 13251 14156 14420 15553 15554 17889 17892 
+		5017 5047 12723 12766 13250 13251 15553 17889 20119 20120 20121 20122 20123 20124 20125
+		20126
 	}
 
 	local_supplies=0.0 

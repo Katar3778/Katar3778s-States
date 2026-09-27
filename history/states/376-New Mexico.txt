@@ -2,7 +2,7 @@
 state={
 	id=376
 	name="STATE_376"
-	manpower = 423316
+	manpower = 274000
 	
 	state_category = rural
 	
@@ -15,6 +15,7 @@ state={
 
 	history={
 		owner = USA
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -26,7 +27,7 @@ state={
 	}
 
 	provinces={
-		1972 2102 3867 3883 4975 5044 8070 10642 10645 10867 10914 12552 12684 12720 12791 17300 
+		1972 3867 3883 4975 10642 10645 10914 12552 12684 12791 20329 20331 20332 20334
 	}
 	
 

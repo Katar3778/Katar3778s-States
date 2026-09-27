@@ -11,6 +11,9 @@ state=
 	
 
 	history= {
+		buildings = {
+			13400 = { naval_base = 1 }
+		}
 		owner = LIB
 		buildings = {
 			infrastructure = 1
@@ -26,7 +29,7 @@ state=
 		add_core_of = LIB
 	}
 	provinces={
-		4580 6759 7959 8006 15289 15290 15291 15695 19219 19357
+		4580 6759 7959 8006 13400 15289 15290 15291 19219 19357
 	}
 
 	local_supplies=0.0 

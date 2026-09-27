@@ -1,0 +1,23 @@
+state={
+	id=1204
+	name="STATE_1204"
+	manpower = 483000
+	resources = {
+	}
+
+	state_category = metropolis
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		1954 10740 10894
+	}
+
+	local_supplies=0.0
+}

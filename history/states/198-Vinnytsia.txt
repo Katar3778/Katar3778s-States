@@ -7,9 +7,7 @@ state = {
 	state_category = large_town
 
 	history = {
-		victory_points = {
-			476 3
-		}
+		
 		owner = SOV
 		buildings = {
 			infrastructure = 3 #was: 5
@@ -20,7 +18,7 @@ state = {
 	}
 
 	provinces = {
-		476 6480 9423 9435 9481 9576 11490 15810 18220 6429 18243
+		6429 9423 9435 9481 9576
 	}
 
 	local_supplies = 0.0 

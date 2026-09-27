@@ -1,0 +1,23 @@
+state={
+	id=1211
+	name="STATE_1211"
+	manpower = 169000
+	resources = {
+	}
+
+	state_category = rural
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		1736 1851 1854 4741 4838 6742 7779 12676 20357
+	}
+
+	local_supplies=0.0
+}

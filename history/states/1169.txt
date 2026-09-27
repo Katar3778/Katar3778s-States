@@ -1,0 +1,18 @@
+state = {
+    id = 1169
+    name="STATE_1169"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+        victory_points = {
+			5034 1
+		}
+    }
+
+    provinces = {
+        5034 7992 8035 10814 14263 14282 14289 14365 14376 14696 17309 18005 18016 18038 18046 20004 20026 20041 20051 20064 20078
+    }
+
+    local_supplies = 0
+}

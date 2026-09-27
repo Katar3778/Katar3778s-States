@@ -1,13 +1,21 @@
 state = {
 	id = 839 # Welega
 	name = "STATE_839"
-	manpower = 600000
+	manpower = 1103000
 	resources = {
 	}
 	
 	state_category = pastoral
 
 	history = {
+		owner = ETH
+		1936.6.1 = {
+			owner = AOI
+			controller = AOI
+		}
+
+		victory_points = { 7912 1 }
+		victory_points = { 13243 1 }
 		set_variable = { ETH_state_development_production_speed = -0.3 }
 		set_variable = { ETH_state_development_local_building_slots_factor = -0.3 }
 		#set_variable = { ETH_state_decentralization_defence = 0.2 }
@@ -29,20 +37,16 @@ state = {
 			2009 2 
 		}
 		
-		owner = ETH
 		add_core_of = ETH
 		add_core_of = BEG
 		add_core_of = ORO
 
-		1936.6.1 = {
-			owner = ITA
-			controller = ITA
-		}
 	}
 
 	provinces = {
-		2009 12856 14058 14095 15567 17903 17907 
- 	}
+		2009 7912 12856 13243 14058 14078 14095 15564 15565 15567 17903 17907 20189 20190 20191
+		20192 20193 20194 20195 20196 20197
+	}
 
 	local_supplies = 0.0 
 }

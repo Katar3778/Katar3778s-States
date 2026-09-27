@@ -1,7 +1,7 @@
 state={
 	id=904
 	name="STATE_904"
-	manpower = 678400
+	manpower = 148000
 	state_category = pastoral
 
 	history={
@@ -14,7 +14,7 @@ state={
 	}
 
 	provinces={
-		5160 5196 11145 13933 13939 13951 13962 13968 13980 13989 15529 20071 20123
+		5196 15695 20071 20107
 	}
 
 	buildings_max_level_factor=1.000

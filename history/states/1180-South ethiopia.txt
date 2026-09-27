@@ -1,0 +1,29 @@
+state={
+	id=1180
+	name="STATE_1180"
+	manpower = 110000
+	resources = {
+	}
+
+	state_category = town
+
+	history={
+		owner = ETH
+		1936.6.1 = {
+			owner = AOI
+			controller = AOI
+		}
+		add_core_of = ETH
+		add_core_of = ORO
+		victory_points = { 5010 5 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		5010
+	}
+
+	local_supplies=0.0
+}

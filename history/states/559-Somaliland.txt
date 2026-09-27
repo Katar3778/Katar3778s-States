@@ -2,7 +2,7 @@ state=
 {
 	id = 559
 	name = "STATE_559"
-	manpower = 771671# was 1028895
+	manpower = 186000# was 1028895
 	resources = {
 		steel = 1
 	}
@@ -11,21 +11,16 @@ state=
 	
 	history={
 		owner = ITA
+
 		add_core_of = SOM
-		victory_points = {
-			12991 3 
-		}
 		buildings = {
 			infrastructure = 2
 			air_base = 1
 			
-			12991 = {
-				naval_base = 2
-			}
 		}
 	}
 	provinces = {
-		1964 1966 2020 2063 4909 5065 8164 10818 10891 10928 12840 12991 13944 13975 13991 14068 15536 15537 15538 15539 15541 15542 17887 17894 17909 17911 17912 
+		2063 10928 13944 13991 15537 15538 15539 17909 17911 17912 20272 20273 20274 20275 20276
 	}
 
 	local_supplies=0.0 

@@ -14,6 +14,7 @@ state={
 
 	history={
 		owner = USA
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
@@ -33,7 +34,8 @@ state={
 	}
 
 	provinces={
-		1618 1806 2043 4919 5103 6803 7762 7904 7945 8025 9822 10702 10798 11743 11802 12624 
+		1618 1806 2043 4919 5103 6803 7762 7904 7945 8025 9822 10702 10798 11743 11802
+		12624
 	}
 
 	local_supplies=0.0 

@@ -2,7 +2,7 @@
 state={
 	id=383
 	name="STATE_383"
-	manpower = 1880998
+	manpower = 1977000
 	resources={
 		oil=18 # was: 42 #2025-12-12: was: 30
 		coal = 4 #initial distribution = with infra 5.6 / 1280 total
@@ -12,6 +12,7 @@ state={
 
 	history={
 		owner = USA
+
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -32,7 +33,8 @@ state={
 	}
 
 	provinces={
-		1352 1753 4586 4740 4757 4811 4814 4871 7834 7892 9802 10340 10532 12024 12513 
+		1352 1753 4586 4740 4757 4811 4814 4871 7834 7892 9802 10340 10532 12024 12513
+		20341 20343
 	}
 	
 

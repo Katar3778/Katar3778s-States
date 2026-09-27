@@ -1,0 +1,26 @@
+state={
+	id=1196
+	name="STATE_1196"
+	manpower = 1223000
+	resources = {
+	}
+
+	state_category = pastoral
+
+	history={
+		owner = ITA
+		add_core_of = SOM
+		victory_points = { 12941 1 }
+		buildings = {
+			infrastructure = 2
+			12941 = { naval_base = 2 }
+		}
+	}
+
+	provinces={
+		8164 11014 12941 13938 13969 13975 15536 17886 20277 20278 20281 20282 20285 20288 20289
+		20292 20293 20294 20296 20298 20299 20301 20302 20305 20307
+	}
+
+	local_supplies=0.0
+}

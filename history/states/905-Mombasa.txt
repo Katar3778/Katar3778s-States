@@ -1,7 +1,7 @@
 state={
 	id=905
 	name="STATE_905"
-	manpower = 1017600
+	manpower = 272000
 	state_category = pastoral
 
 	history={
@@ -14,15 +14,14 @@ state={
 			}
 		}
 
-		victory_points = {
-			5210 1 
-		}
+		
 		add_core_of = KEN
 
+		
 	}
 
 	provinces={
-		5210 6020 8183 13913 13919 13921 13936 15532 17862 17902 20136
+		13410 20044
 	}
 
 	buildings_max_level_factor=1.000

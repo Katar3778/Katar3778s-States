@@ -1,0 +1,29 @@
+state={
+	id=1181
+	name="STATE_1181"
+	manpower = 140000
+	resources = {
+	}
+
+	state_category = pastoral
+
+	history={
+		owner = ETH
+		1936.6.1 = {
+			owner = AOI
+			controller = AOI
+		}
+		add_core_of = ETH
+		add_core_of = GBA
+		victory_points = { 13244 2 }
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		13244 15568 17906 20231
+	}
+
+	local_supplies=0.0
+}

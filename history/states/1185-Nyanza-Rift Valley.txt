@@ -1,0 +1,23 @@
+state={
+	id=1185
+	name="STATE_1185"
+	manpower = 300000
+	resources = {
+	}
+
+	state_category = pastoral
+
+	history={
+		owner = ENG
+		add_core_of = KEN
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		11145 13962 13968 13980 13989 20029 20266 20267 20268 20269
+	}
+
+	local_supplies=0.0
+}

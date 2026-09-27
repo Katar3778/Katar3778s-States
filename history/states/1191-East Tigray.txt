@@ -1,0 +1,28 @@
+state={
+	id=1191
+	name="STATE_1191"
+	manpower = 212000
+	resources = {
+	}
+
+	state_category = pastoral
+
+	history={
+		owner = ETH
+		1936.6.1 = {
+			owner = AOI
+			controller = AOI
+		}
+		add_core_of = ETH
+		add_core_of = TIG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		14162 20132
+	}
+
+	local_supplies=0.0
+}

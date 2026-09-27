@@ -11,9 +11,7 @@ state = {
 		owner = FRA
 		add_core_of = FRA
 
-		victory_points = {
-			11506 50 # Paris
-		}
+		
 
 		buildings = {
 			infrastructure = 4
@@ -45,7 +43,7 @@ state = {
 	}
 
 	provinces = {
-		6949 9507 9523 9534 9725 11491 11506 11518 15365 
+		9507 9725 15365
 	}
 
 	local_supplies = 0.0 

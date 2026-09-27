@@ -1,11 +1,12 @@
 state={
 	id=903
 	name="STATE_903"
-	manpower = 610560
+	manpower = 665000
 	state_category = pastoral
 
 	history={
 		owner = ENG
+
 		buildings = {
 			infrastructure = 1
 
@@ -17,7 +18,7 @@ state={
 	}
 
 	provinces={
-		2066 8133 10976 13927 13940 13948 13949 13959 15533 17884 
+		2066 8133 13927 13940 13948 13949 13953 13959 15533 15534 17884 20279 20280 20283 20284 20286 20287 20290 20291 20295 20297 20300 20303 20304 20306 20308 20309
 	}
 	
 	buildings_max_level_factor = 1.000

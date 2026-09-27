@@ -1,13 +1,19 @@
 state = {
 	id = 841 # Begemder
 	name = "STATE_841"
-	manpower = 1100000
+	manpower = 1563000
 	resources = {
 	}
 	
 	state_category = pastoral
 
 	history = {
+		owner = ETH
+		1936.6.1 = {
+			owner = AOI
+			controller = AOI
+		}
+
 		set_variable = { ETH_state_development_production_speed = -0.3 }
 		set_variable = { ETH_state_development_local_building_slots_factor = -0.3 }
 		#set_variable = { ETH_state_decentralization_defence = 0.2 }
@@ -29,19 +35,15 @@ state = {
 			1984 2
 		}
 		
-		owner = ETH
 		add_core_of = ETH
 		add_core_of = QEM
 
-		1936.6.1 = {
-			owner = ITA
-			controller = ITA
-		}
 	}
 
 	provinces = {
-		1984 2040 13137 13241 14131 14141 17882 17904 
- 	}
+		1984 2040 7944 13137 13241 14107 14131 14141 15559 17882 17904 20137 20138 20139 20140
+		20141 20142 20143 20144
+	}
 
 	local_supplies = 0.0 
 }
