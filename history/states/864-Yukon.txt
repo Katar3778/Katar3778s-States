@@ -1,16 +1,17 @@
 state = {
 	id = 864
 	name = "STATE_864"
-	manpower = 4230
+	manpower = 2000
 	state_category = wasteland
 	
 	history = {
 		owner = CAN
+
 		add_core_of = CAN
 	}
 	
 	provinces = {
-		3606 7869 7891 16827 17164 17166 17168 17171 17189 17195 17196 17204 17224 17237 17240 17244 
+		3606 16827 17168 17195 17204 17240 20366 20369 20370
 	}
 
 	buildings_max_level_factor = 1.000

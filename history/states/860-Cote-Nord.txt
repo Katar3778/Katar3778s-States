@@ -5,8 +5,9 @@ state = {
 	state_category = rural
 	
 	history = {
-
 		owner = CAN
+
+
 		add_core_of = CAN
 		add_core_of = QUE
 
@@ -17,7 +18,7 @@ state = {
 	}
 	
 	provinces = {
-		7810 10534 10715 12600 13164 13293 17263 
+		7810 10534 10715 12600 13164 13293 17263
 	}
 
 	buildings_max_level_factor = 1.000

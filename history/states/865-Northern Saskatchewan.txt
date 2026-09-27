@@ -3,12 +3,13 @@ state = {
 	name = "STATE_865"
 
 	provinces = {
-		2976 3800 4695 6779 12682 13168 13185 13187 17270  13167
+		2976 3800 4695 6779 12682 13167 13168 13185 13187 17270
 	}
 
 	history = {
-
 		owner = CAN
+
+
 		add_core_of = CAN
 
 		buildings = {

@@ -4,6 +4,7 @@ state={
 
 	history={
 		owner = CAN
+
 		buildings = {
 			infrastructure = 1
 

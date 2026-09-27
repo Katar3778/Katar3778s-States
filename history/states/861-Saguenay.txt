@@ -5,8 +5,9 @@ state = {
 	state_category = pastoral
 	
 	history = {
-
 		owner = CAN
+
+
 		add_core_of = CAN
 		add_core_of = QUE
 
@@ -17,7 +18,7 @@ state = {
 	}
 	
 	provinces = {
-		4666 10176 17276 490 6740 13162 17252 17259 17267 17271 17272 13181
+		490 4666 6740 10176 13162 13181 17252 17259 17267 17271 17272 17276
 	}
 	buildings_max_level_factor = 1.000
 	local_supplies = 0.000

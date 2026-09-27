@@ -4,6 +4,7 @@ state={
 
 	history={
 		owner = CAN
+
 		buildings = {
 			infrastructure = 1
 			10548 = {
@@ -17,9 +18,9 @@ state={
 	}
 
 	provinces={
-		917 1411 1799 1872 2991 4678 5981 10548 12508 12571 17172 17227 17235 17236
+		1799 1872 2991 10548 12508 17227 17235 17236 20360 20363
 	}
-	manpower=27681
+	manpower = 14000
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 	local_supplies=3.000

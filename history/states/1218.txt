@@ -1,0 +1,18 @@
+state = {
+    id = 1218
+    name="STATE_1218"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+        victory_points = { 9616 1 }
+		owner = USA
+		add_core_of = USA  
+    }
+
+    provinces = {
+        9616
+    }
+
+    local_supplies = 0
+}
