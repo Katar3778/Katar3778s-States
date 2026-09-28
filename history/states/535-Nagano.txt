@@ -1,40 +1,34 @@
 state = {
 	id = 535
 	name = "STATE_535" # was Koshinetsu, is actually Hokuriku
-	manpower = 3871000
+	manpower = 1814000
 	state_category = city # was large_city
 	
-	resources = {
-		steel = 27 # was: 35
-		tungsten = 8 # was: 10
-	}
 
 	history = {
-		victory_points = {
-			10128 1 # Toyama
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			4069 = { dam = 1 }
 		}
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 1
+				industrial_complex = 1
+			}
+		}
+		victory_points = { 10015 10 }
+
 
 		owner = JAP
 		add_core_of = JAP
 
-		buildings = {
-
-			arms_factory = 1
-			industrial_complex = 2
-			infrastructure = 2
-			dockyard = 1
-			fuel_silo = 1
-
-		}
 		
-		victory_points = {
-			10032 15 # Kanazawa
-		}
 
 	}
 
 	provinces = {
-		998 7102 10032 10128 15880 
+		4069 10015 10100 15877
 	}
 
 	local_supplies = 0.0 

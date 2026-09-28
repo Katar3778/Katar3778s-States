@@ -1,0 +1,32 @@
+state={
+	id=1254
+	name="STATE_1254"
+	manpower = 930000
+	resources = {
+		chromium = 9
+		coal = 4
+	}
+
+	state_category = city
+
+	history={
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			dockyard = 1
+		}
+		1939.1.1 = {
+			buildings = {
+				dockyard = 1
+			}
+		}
+	}
+
+	provinces={
+		4027 10020 10092
+	}
+
+	local_supplies=0.0
+}

@@ -1,0 +1,23 @@
+state={
+	id=1240
+	name="STATE_1240"
+	manpower = 683000
+	resources = {
+	}
+
+	state_category = metropolis
+
+	history={
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		1067 15872
+	}
+
+	local_supplies=0.0
+}

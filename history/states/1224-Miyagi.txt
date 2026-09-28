@@ -1,0 +1,25 @@
+state={
+	id=1224
+	name="STATE_1224"
+	manpower = 2064000
+	resources = {
+		steel = 1
+	}
+
+	state_category = town
+
+	history={
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 7169 15 }
+	}
+
+	provinces={
+		7169 15884 19778
+	}
+
+	local_supplies=0.0
+}

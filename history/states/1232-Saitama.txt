@@ -1,0 +1,24 @@
+state={
+	id=1232
+	name="STATE_1232"
+	manpower = 1428000
+	resources = {
+	}
+
+	state_category = megalopolis
+
+	history={
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+		}
+	}
+
+	provinces={
+		1097 15882
+	}
+
+	local_supplies=0.0
+}
