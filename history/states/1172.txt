@@ -1,18 +1,23 @@
-state = {
-    id = 1172
-    name="STATE_1172"
-    manpower = 0
-    state_category = wasteland
+state={
+	id=1172
+	name="STATE_1172"
+	manpower = 808000
 
-    history = {
-        victory_points = {
-			476 3
+	state_category = rural
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = UKR
+		buildings = {
+			infrastructure = 3
 		}
-    }
+		victory_points = { 476 3 }
+	}
 
-    provinces = {
-        476 6480 11490 15810 18220 18243
-    }
+	provinces={
+		476 6480 11490 15810 18220 18243
+	}
 
-    local_supplies = 0
+	local_supplies=0.0
 }

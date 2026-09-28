@@ -1,18 +1,25 @@
-state = {
-    id = 1152
-    name="STATE_1152"
-    manpower = 0
-    state_category = wasteland
+state={
+	id=1152
+	name="STATE_1152"
+	manpower = 1139000
 
-    history = {
-        victory_points = {
-			721 1 # Kherson
+	state_category = town
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = UKR
+		buildings = {
+			infrastructure = 3
+			air_base = 1
 		}
-    }
+		victory_points = { 3520 3 }
+		victory_points = { 9566 1 }
+	}
 
-    provinces = {
-        721 11715 15819
-    }
+	provinces={
+		463 501 522 3455 3520 6565 9477 9566 11425 11462 18227
+	}
 
-    local_supplies = 0
+	local_supplies=0.0
 }
