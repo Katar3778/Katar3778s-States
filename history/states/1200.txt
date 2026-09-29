@@ -5,9 +5,16 @@ state = {
     state_category = wasteland
 
     history = {
+		owner = CHI
+		add_core_of = CHI
+		add_core_of = PRC
+        victory_points = {
+			4205 1 # Weihaiwei
+		}
     }
 
     provinces = {
+        4205 20544
     }
 
     local_supplies = 0

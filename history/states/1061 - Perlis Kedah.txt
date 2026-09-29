@@ -21,10 +21,7 @@ state = {
 		victory_points = {
 			12144 1 # Kangar 
 		}
-		victory_points = {
-			13408 1 # Seberang Perai 
-		}
-
+		
 		buildings = {
 
 			infrastructure = 1
@@ -34,7 +31,7 @@ state = {
 	}
 
 	provinces = {
-		1291 12144 13408 19032
+		1291 12144 19032 20558
 	}
 
 	local_supplies = 0.0 

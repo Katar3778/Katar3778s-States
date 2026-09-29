@@ -4,11 +4,22 @@ state = {
     manpower = 0
     state_category = wasteland
 
-    history = {
-    }
+	history={
+		owner = ETH
+		1936.6.1 = {
+			owner = AOI
+			controller = AOI
+		}
+		add_core_of = ETH
+		add_core_of = ORO
+		buildings = {
+			infrastructure = 2
+		}
+	}
 
     provinces = {
-    }
+		13239
+	}
 
     local_supplies = 0
 }

@@ -9,7 +9,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 3325;13259;sea;2408;-1;-1;-1;-1;;DENMARK ISLANDS
 3260;13259;sea;2408;-1;-1;-1;-1;;DENMARK ISLANDS
 19989;13015;sea;1886;-1;-1;-1;-1;;Sao Tome Islands
-19988;13015;sea;4699;-1;-1;-1;-1;;Sao Tome Islands
 6201;185;sea;1885;-1;-1;-1;-1;;West Estonian Archipelago
 19968;19973;sea;8515;-1;-1;-1;-1;;Tahiti Islands
 19979;19973;sea;8563;-1;-1;-1;-1;;Tahiti Islands
@@ -19,20 +18,13 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 19954;19953;sea;5737;-1;-1;-1;-1;;Tahiti Islands
 19972;19953;sea;2306;-1;-1;-1;-1;;Tahiti Islands
 19962;19973;sea;8563;-1;-1;-1;-1;;Tahiti Islands
-12148;19972;sea;2253;-1;-1;-1;-1;;Tahiti Islands
-19944;19943;sea;5247;-1;-1;-1;-1;;Random madagascar islands
-19983;19985;sea;8259;-1;-1;-1;-1;;phoenix islands
 13080;13050;sea;8137;-1;-1;-1;-1;;american samoa
-19969;19960;sea;9087;-1;-1;-1;-1;;cook islands
 19952;19959;sea;2429;-1;-1;-1;-1;;marquesas islands
-19967;19981;sea;1487;-1;-1;-1;-1;;fiji islands
 19938;824;sea;16570;-1;-1;-1;-1;;southern nzl islands
 19941;824;sea;16570;-1;-1;-1;-1;;southern nzl islands
-19940;16385;sea;16517;-1;-1;-1;-1;;southern nzl islands
 13025;19966;sea;8568;-1;-1;-1;-1;;Iwo Jima Islands
 19948;19949;sea;8627;-1;-1;-1;-1;;Amsterdam Islands
 19976;19964;sea;2427;-1;-1;-1;-1;;Cook Islands
-16826;16825;sea;2604;-1;-1;-1;-1;;Svalbard
 16459;17755;sea;16761;-1;-1;-1;-1;;Antarctic Peninsula Islands
 16459;17594;sea;16741;-1;-1;-1;-1;;Antarctic Peninsula Islands
 17632;16453;sea;16595;-1;-1;-1;-1;;Antarctic Peninsula Islands
@@ -61,7 +53,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13315;761;sea;9092;-1;-1;-1;-1;;canadian arctic archipelago
 13314;13196;sea;8768;-1;-1;-1;-1;;canadian arctic archipelago
 1712;17261;sea;8978;-1;-1;-1;-1;;canadian arctic archipelago
-3691;17251;sea;5953;-1;-1;-1;-1;;canadian arctic archipelago
+3691;17251;sea;8953;-1;-1;-1;-1;;canadian arctic archipelago
 16862;17212;sea;17001;-1;-1;-1;-1;;canadian arctic archipelago
 16853;17212;sea;16997;-1;-1;-1;-1;;canadian arctic archipelago
 16865;17212;sea;16923;-1;-1;-1;-1;;canadian arctic archipelago
@@ -82,7 +74,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 17247;17248;sea;2970;-1;-1;-1;-1;;Alaska
 13202;17248;sea;2970;-1;-1;-1;-1;;Alaska
 10321;12251;sea;8313;-1;-1;-1;-1;;Andaman
-2134;13084;sea;5507;-1;-1;-1;-1;;Anguilla-Virgin Islands
 4450;19993;sea;2887;-1;-1;-1;-1;;Antigua-Montserrat
 4450;19994;sea;2887;-1;-1;-1;-1;;Antigua-Saint Martin
 153;19991;sea;2571;-1;-1;-1;-1;;Aruba-Curacao
@@ -91,12 +82,11 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 4647;10254;sea;7910;-1;-1;-1;-1;;Bahamas
 10440;19987;sea;7230;-1;-1;-1;-1;;Bahamas
 4647;7245;sea;7910;-1;-1;-1;-1;;Bahamas
-1513;19987;sea;5674;-1;-1;-1;-1;;Bahamas
 11047;16821;sea;17101;-1;-1;-1;-1;;Barents-Strait
 12162;12219;sea;2291;-1;-1;-1;-1;;Bima-Sumba
 12118;14725;sea;8751;-1;-1;-1;-1;;Bohol-Cebu
 9833;11829;sea;5412;-1;-1;-1;-1;;Bosphorus
-13041;13044;sea;7287;-1;-1;-1;-1;;Carolines 1
+13041;13044;sea;2438;-1;-1;-1;-1;;Carolines 1
 13040;13043;sea;2462;-1;-1;-1;-1;;Carolines 2
 13032;13033;sea;7918;-1;-1;-1;-1;;Carolines 3
 13035;13036;sea;2339;-1;-1;-1;-1;;Carolines 8
@@ -123,7 +113,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 9377;19993;sea;2887;-1;-1;-1;-1;;Guadeloupe-Montserrat
 1070;4160;sea;5244;-1;-1;-1;-1;;Hainan-Strait
 13052;20001;sea;5261;-1;-1;-1;-1;;Hawaii
-19996;20001;sea;5932;-1;-1;-1;-1;;Hawaii
 7195;10048;sea;5958;-1;-1;-1;-1;;Hawaii-Maui
 13485;19662;impassable;-1;-1;-1;-1;-1;;Himalayas
 12860;19712;impassable;-1;-1;-1;-1;-1;;Himalayas
@@ -132,7 +121,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 10825;19688;impassable;-1;-1;-1;-1;-1;;Himalayas
 16110;19688;impassable;-1;-1;-1;-1;-1;;Himalayas
 4900;18879;impassable;-1;-1;-1;-1;-1;;Himalayas
-4987;19627;impassable;-1;-1;-1;-1;-1;;Himalayas
 16042;19662;impassable;-1;-1;-1;-1;-1;;Himalayas
 16131;19712;impassable;-1;-1;-1;-1;-1;;Himalayas
 1961;18877;impassable;-1;-1;-1;-1;-1;;Himalayas
@@ -153,19 +141,17 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 16109;19668;impassable;-1;-1;-1;-1;-1;;Himalayas
 10825;16981;impassable;-1;-1;-1;-1;-1;;Himalayas
 10910;12807;impassable;-1;-1;-1;-1;-1;;Himalayas
-4180;7112;sea;5958;-1;-1;-1;-1;;Honolulu-Kauai
 1025;11985;sea;7932;-1;-1;-1;-1;;Japan-Kyushu
 1177;11948;sea;2708;-1;-1;-1;-1;;Jeju-Korea
 4198;12032;sea;8472;-1;-1;-1;-1;;Kanoya-Yokushima
 6741;9680;sea;8282;-1;-1;-1;-1;;Kerch Strait
 7884;12661;sea;8538;-1;-1;-1;-1;;Kodiak-Alaska
-1399;1515;sea;220;-1;-1;-1;-1;;Kurils 1
+1399;1515;sea;8893;-1;-1;-1;-1;;Kurils 1
 1515;13037;sea;5614;-1;-1;-1;-1;;Kurils 2
 1512;13037;sea;5922;-1;-1;-1;-1;;Kurils 3
 7046;10092;sea;8791;-1;-1;-1;-1;;Kyushu-Shikoku
 1106;12001;sea;5913;-1;-1;-1;-1;;Lefkada
 5205;10233;sea;13155;-1;-1;-1;-1;;Mackinac
-4967;18824;sea;34;-1;-1;-1;-1;;Maldives
 1002;13044;sea;2438;-1;-1;-1;-1;;Marshalls 1
 4387;13020;sea;8290;-1;-1;-1;-1;;Marshalls 10
 13041;13045;sea;2438;-1;-1;-1;-1;;Marshalls 2
@@ -173,26 +159,22 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13039;13041;sea;7287;-1;-1;-1;-1;;Marshalls 4
 13045;13046;sea;7062;-1;-1;-1;-1;;Marshalls 5
 7393;13042;sea;8699;-1;-1;-1;-1;;Marshalls 7
-7393;13022;sea;8316;-1;-1;-1;-1;;Marshalls 8
 4387;13021;sea;8290;-1;-1;-1;-1;;Marshalls 9
 177;7123;sea;5533;-1;-1;-1;-1;;Martinique-Dominica
 4180;7195;sea;5958;-1;-1;-1;-1;;Maui-Honolulu
 3284;14424;sea;2597;-1;-1;-1;-1;;Miranda-Trinidad
 12112;12153;sea;8751;-1;-1;-1;-1;;Negros-Cebu
 480;9431;sea;8621;-1;-1;-1;-1;;Netherlands outlier
-4231;4268;sea;5660;-1;-1;-1;-1;;New Caledonia 1
 1237;12120;sea;7698;-1;-1;-1;-1;;New Caledonia 2
-4231;4247;sea;7246;-1;-1;-1;-1;;New Caledonia 3
 4247;12120;sea;7472;-1;-1;-1;-1;;New Caledonia 4
 4360;7304;sea;8614;-1;-1;-1;-1;;New Foundland-Strait
 10231;10248;sea;430;-1;-1;-1;-1;;New Guinea-Fergusson
 373;12680;sea;2361;-1;-1;-1;-1;;Newfoundland-Labrador
 1117;9952;sea;2658;-1;-1;-1;-1;;Niigata-Sado
-13023;13024;sea;2901;-1;-1;-1;-1;;North Marianas
 12140;13023;sea;2901;-1;-1;-1;-1;;North Marianas-Guam
 1814;12632;sea;5637;-1;-1;-1;-1;;North-South NZ Islands
 3034;18401;sea;5869;-1;-1;-1;-1;;Northern-Straits
-22;3016;sea;5792;-1;-1;-1;-1;;Northern-Straits
+22;3016;sea;8326;-1;-1;-1;-1;;Northern-Straits
 91;11090;sea;5792;-1;-1;-1;-1;;Northern-Straits
 44;11050;sea;5792;-1;-1;-1;-1;;Northern-Straits
 65;18415;sea;2530;-1;-1;-1;-1;;Norwegian Fjords
@@ -210,7 +192,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13054;13055;sea;8547;-1;-1;-1;-1;;Nukufetau-Funafuti
 1123;10124;sea;8499;-1;-1;-1;-1;;Okinawa 1
 1123;7115;sea;8318;-1;-1;-1;-1;;Okinawa 2
-4357;12103;sea;3805;-1;-1;-1;-1;;Palau
 1261;10302;sea;2876;-1;-1;-1;-1;;Panay-Negros
 4377;14727;sea;8572;-1;-1;-1;-1;;Philippines
 14725;14728;sea;8751;-1;-1;-1;-1;;Philippines
@@ -252,7 +233,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6287;6345;sea;2382;-1;-1;-1;-1;;Skåne-Sjaelland
 6287;9279;sea;2382;-1;-1;-1;-1;;Skåne-Sjaelland
 211;299;sea;2282;-1;-1;-1;-1;;Småland-Öland
-4306;4608;sea;5666;-1;-1;-1;-1;;Soerbaja-Madura
+4306;4608;sea;2785;-1;-1;-1;-1;;Soerbaja-Madura
 13420;19993;sea;2887;-1;-1;-1;-1;;St Kitts-Montserrat
 177;13009;sea;5533;-1;-1;-1;-1;;St Lucia-Martinique
 379;11350;sea;5533;-1;-1;-1;-1;;St Vincent-Barbados
@@ -267,8 +248,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 2489;13033;sea;7918;-1;-1;-1;-1;;Truk-Hall Islands
 3962;9859;sea;5946;-1;-1;-1;-1;;Tsugaru Strait
 1158;10011;sea;2708;-1;-1;-1;-1;;Tsushima-Kyushu
-13028;13029;sea;2735;-1;-1;-1;-1;;Ulithi-Yap
-10694;13090;sea;6064;-1;-1;-1;-1;;Unalaska-Unimak
+10694;13090;sea;8330;-1;-1;-1;-1;;Unalaska-Unimak
 2134;4155;sea;5507;-1;-1;-1;-1;;Us-BritishVirgin Islands
 1393;7259;sea;5257;-1;-1;-1;-1;;Vancouver-Strait
 6062;6205;sea;3590;-1;-1;-1;-1;;West Scottish-Strait
@@ -320,7 +300,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 8192;17518;impassable;-1;-1;-1;-1;-1;;andes mountains
 8161;14807;impassable;-1;-1;-1;-1;-1;;andes mountains
 14839;14842;impassable;-1;-1;-1;-1;-1;;andes mountains
-14808;14905;impassable;-1;-1;-1;-1;-1;;andes mountains
+14808;20109;impassable;-1;-1;-1;-1;-1;;andes mountains
 8231;17489;impassable;-1;-1;-1;-1;-1;;andes mountains
 8161;17511;impassable;-1;-1;-1;-1;-1;;andes mountains
 15091;15307;impassable;-1;-1;-1;-1;-1;;andes mountains
@@ -343,20 +323,16 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 2215;17519;impassable;-1;-1;-1;-1;-1;;andes mountains
 14842;14951;impassable;-1;-1;-1;-1;-1;;andes mountains
 14840;14842;impassable;-1;-1;-1;-1;-1;;andes mountains
-14857;14979;impassable;-1;-1;-1;-1;-1;;andes mountains
 14861;14871;impassable;-1;-1;-1;-1;-1;;andes mountains
 5146;8195;impassable;-1;-1;-1;-1;-1;;andes mountains
 12702;13313;sea;2691;-1;-1;-1;-1;;bahrain
 13313;15807;sea;2691;-1;-1;-1;-1;;bahrain
-7114;9793;sea;8845;-1;-1;-1;-1;;balerics 1
 9793;9845;sea;8871;-1;-1;-1;-1;;balerics 2
-7293;13386;sea;2239;-1;-1;-1;-1;;bali-lombok
 7396;15703;sea;4225;-1;-1;-1;-1;;banga belitung
 4409;15703;sea;5641;-1;-1;-1;-1;;banga belitung-borneo
 13300;15105;sea;15106;-1;-1;-1;-1;;beagle channel
 15104;15105;sea;15106;-1;-1;-1;-1;;beagle channel islands
 1361;4352;sea;7010;-1;-1;-1;-1;;bismarck archipelago
-4352;7339;sea;7010;-1;-1;-1;-1;;bismarck archipelago
 4421;7251;sea;7010;-1;-1;-1;-1;;bismarck archipelago
 3868;15616;sea;3401;-1;-1;-1;-1;;brac island croatia
 3924;15616;sea;3401;-1;-1;-1;-1;;brac island croatia
@@ -390,7 +366,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 1574;7557;sea;5390;-1;-1;-1;-1;;central maluku
 4468;10409;sea;5320;-1;-1;-1;-1;;central maluku-papua
 7369;7557;sea;4899;-1;-1;-1;-1;;central-north maluku
-1574;10342;sea;5390;-1;-1;-1;-1;;central-north maluku
 19231;19280;sea;5290;-1;-1;-1;-1;;central-south maluku
 6449;14611;sea;2871;-1;-1;-1;-1;;channel islands link
 788;865;sea;8492;-1;-1;-1;-1;;cheskapeake bay
@@ -418,7 +393,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 11833;15192;sea;5579;-1;-1;-1;-1;;elba link
 3864;17895;sea;7452;-1;-1;-1;-1;;euboea nw
 6300;16374;sea;2942;-1;-1;-1;-1;;firth of forth
-13393;12151;sea;5414;-1;-1;-1;-1;;flores-south maluku
 10035;12010;sea;5873;-1;-1;-1;-1;;ganges delta
 10035;11968;sea;5873;-1;-1;-1;-1;;ganges delta
 6621;9597;sea;5108;-1;-1;-1;-1;;gironde estuary
@@ -437,7 +411,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7003;10007;sea;7226;-1;-1;-1;-1;;italian rhodes
 7654;19326;sea;2440;-1;-1;-1;-1;;java-bali
 4608;19325;sea;5666;-1;-1;-1;-1;;java-bawean
-13383;13389;sea;2785;-1;-1;-1;-1;;java-madura
 4224;18650;impassable;-1;-1;-1;-1;-1;;kazakh-kyrgyz mountains
 4224;14257;impassable;-1;-1;-1;-1;-1;;kazakh-kyrgyz mountains
 10660;14742;impassable;-1;-1;-1;-1;-1;;kazakh-kyrgyz mountains
@@ -455,12 +428,11 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 18657;18675;impassable;-1;-1;-1;-1;-1;;kyrgyz mountains
 12370;18663;impassable;-1;-1;-1;-1;-1;;kyrgyz mountains
 7638;10447;sea;5975;-1;-1;-1;-1;;lagoa dos patos
-592;9408;sea;13127;-1;-1;-1;-1;;lake peipus
+627;9408;sea;13127;-1;-1;-1;-1;;lake peipus
 5119;7782;sea;13163;-1;-1;-1;-1;;lake winnipeg
 6864;8435;sea;7452;-1;-1;-1;-1;;lesbos to asia minor
 970;15351;sea;5336;-1;-1;-1;-1;;lisbon
 7293;13176;sea;2239;-1;-1;-1;-1;;lombok-sumbawa
-19370;19383;sea;8676;-1;-1;-1;-1;;luzon-babuyan
 5201;14797;sea;8913;-1;-1;-1;-1;;magellan strait
 1944;17370;sea;2232;-1;-1;-1;-1;;maracaibo
 15105;15121;sea;15106;-1;-1;-1;-1;;murder island
@@ -472,20 +444,18 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 1428;12126;sea;812;-1;-1;-1;-1;;nias-mentawai
 19212;13395;sea;1236;-1;-1;-1;-1;;nias-nias
 1428;19212;sea;812;-1;-1;-1;-1;;nias-nias
-12126;13397;sea;436;-1;-1;-1;-1;;nias-nias
 13396;13397;sea;436;-1;-1;-1;-1;;nias-pulau
 13396;13401;sea;436;-1;-1;-1;-1;;sumatra-pulau
 1437;10342;sea;4899;-1;-1;-1;-1;;north maluku
 1437;7413;sea;4899;-1;-1;-1;-1;;north maluku
 7369;10342;sea;4899;-1;-1;-1;-1;;north maluku
-4468;10141;sea;4899;-1;-1;-1;-1;;north maluku-papua
+4468;10141;sea;8898;-1;-1;-1;-1;;north maluku-papua
 4211;7369;sea;4899;-1;-1;-1;-1;;north maluku-sulawesi
 316;3206;sea;2506;-1;-1;-1;-1;;northern denmark
 4768;19725;impassable;-1;-1;-1;-1;-1;;pamir mountains
 5062;12119;impassable;-1;-1;-1;-1;-1;;pamir mountains
 1703;4391;impassable;-1;-1;-1;-1;-1;;pamir mountains
 5062;19725;impassable;-1;-1;-1;-1;-1;;pamir mountains
-4391;12526;impassable;-1;-1;-1;-1;-1;;pamir mountains
 14274;19792;impassable;-1;-1;-1;-1;-1;;pamir mountains
 4391;19725;impassable;-1;-1;-1;-1;-1;;pamir mountains
 12119;12370;impassable;-1;-1;-1;-1;-1;;pamir mountains
@@ -494,7 +464,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 4624;14790;sea;8857;-1;-1;-1;-1;;panama name placement and crossing
 4509;7542;sea;2585;-1;-1;-1;-1;;papua-biak
 1091;15897;sea;5345;-1;-1;-1;-1;;penghu island crossing
-4998;8090;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 10826;16000;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 7519;16006;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 18658;16001;impassable;-1;-1;-1;-1;-1;;peshawar mountains
@@ -505,7 +474,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 10826;16004;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 15971;16003;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 14752;16006;impassable;-1;-1;-1;-1;-1;;peshawar mountains
-2084;7519;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 10826;16006;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 4998;15971;impassable;-1;-1;-1;-1;-1;;peshawar mountains
 12113;19213;sea;5539;-1;-1;-1;-1;;riau islands
@@ -525,12 +493,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 4421;10234;sea;7010;-1;-1;-1;-1;;solomon islands
 1085;7437;sea;9014;-1;-1;-1;-1;;solomon islands
 4292;10319;sea;5868;-1;-1;-1;-1;;solomon islands
-10219;13393;sea;5414;-1;-1;-1;-1;;south maluku
-19353;13394;sea;5238;-1;-1;-1;-1;;south maluku
-10219;13394;sea;5414;-1;-1;-1;-1;;south maluku
-13400;19353;sea;5462;-1;-1;-1;-1;;south maluku
-4579;19231;sea;5290;-1;-1;-1;-1;;south maluku
-19231;13400;sea;5290;-1;-1;-1;-1;;south maluku
+10219;14905;sea;5414;-1;-1;-1;-1;;south maluku
 10219;13001;sea;5414;-1;-1;-1;-1;;south maluku-timor
 10205;18659;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
 6282;6334;sea;2358;-1;-1;-1;-1;;stettin lagoon
@@ -575,7 +538,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 1384;18659;impassable;-1;-1;-1;-1;-1;;tajik-uzbek mountains
 4184;9998;sea;5664;-1;-1;-1;-1;;tokyo bay
 15301;10515;sea;5951;-1;-1;-1;-1;;uruguay river
-4457;14891;sea;5951;-1;-1;-1;-1;;uruguay river
+4457;20103;sea;5951;-1;-1;-1;-1;;uruguay river
 10660;18617;impassable;-1;-1;-1;-1;-1;;uzbek-kyrgyz mountains
 10660;18643;impassable;-1;-1;-1;-1;-1;;uzbek-kyrgyz mountains
 10660;18622;impassable;-1;-1;-1;-1;-1;;uzbek-kyrgyz mountains
@@ -584,7 +547,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 12052;19890;sea;8396;-1;-1;-1;-1;;yangtze delta
 2196;13879;sea;5394;-1;-1;-1;-1;;zanzibar
 13888;13891;sea;5369;-1;-1;-1;-1;;zanzibar
-13879;13888;sea;5394;-1;-1;-1;-1;;zanzibar
 185;3074;sea;1885;-1;-1;-1;-1;;Ösel-Dagö
 13295;17937;sea;17942;-1;-1;-1;-1;;chilean islands
 13295;14881;sea;17942;-1;-1;-1;-1;;chilean islands

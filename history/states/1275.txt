@@ -1,0 +1,19 @@
+state = {
+    id = 1275
+    name="STATE_1275"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = TAJ
+		add_core_of = BUK
+    }
+
+    provinces = {
+        4923 8027 10417 12805 14751 15970 15975 18656
+    }
+
+    local_supplies = 0
+}

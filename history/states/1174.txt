@@ -5,6 +5,9 @@ state = {
     state_category = wasteland
 
     history = {
+		owner = ENG
+		add_core_of = KEN
+		add_core_of = SOM
     }
 
     provinces = {

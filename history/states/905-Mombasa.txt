@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		13410 20044
+		13410
 	}
 
 	buildings_max_level_factor=1.000

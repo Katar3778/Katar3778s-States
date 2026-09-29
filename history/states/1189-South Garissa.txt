@@ -10,7 +10,6 @@ state={
 	history={
 		owner = ENG
 		add_core_of = KEN
-		add_core_of = SOM
 		buildings = {
 			infrastructure = 1
 		}
