@@ -5,6 +5,16 @@ state = {
 	state_category = megalopolis
 
     history = {
+		buildings = {
+			6521 = {
+                landmark_berlin_reichstag = {
+                    level = 1
+                    allowed = {
+                        has_dlc = "Gotterdammerung"
+                    }
+                }
+            }
+		}
         victory_points = {
 			6521 50 # Berlin
 		}

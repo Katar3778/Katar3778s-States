@@ -5,6 +5,12 @@ state = {
     state_category = wasteland
 
     history = {
+		buildings = {
+			5210 = {
+				naval_base = 2
+
+			}
+		}
         victory_points = {
 			5210 1 
 		}

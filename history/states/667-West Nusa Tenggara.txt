@@ -9,19 +9,19 @@ state={
 		add_core_of = TNE
 		buildings = {
 			infrastructure = 1
-			13387 = {
+			20045 = {
 				naval_base = 1
 			}
 			12234 = {
 				naval_base = 1
 			}
-			13384 = {
+			20546 = {
 				naval_base = 1
 			}
 		}
 
 		victory_points = {
-			13387 1
+			20045 1
 		}
 
 		
@@ -33,7 +33,7 @@ state={
 	}
 
 	provinces={
-		7293 10191 12162 12219 12234 13176 13387 13392 14531 20045 20546 20548
+		7293 10191 12162 12219 12234 13176 13392 14531 20045 20546 20548
 	}
 	manpower=973854
 	buildings_max_level_factor=1

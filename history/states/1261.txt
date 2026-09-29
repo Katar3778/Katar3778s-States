@@ -5,6 +5,9 @@ state = {
     state_category = wasteland
 
     history = {
+		buildings = {
+			3488 = { dam = 1 }
+		}
 		owner = BEL
 		add_core_of = BEL
     }

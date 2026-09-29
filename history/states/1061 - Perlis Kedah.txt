@@ -23,6 +23,10 @@ state = {
 		}
 		
 		buildings = {
+			20558 = {
+				naval_base = 1
+				bunker = 2
+			}
 
 			infrastructure = 1
 

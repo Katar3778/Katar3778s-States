@@ -5,6 +5,16 @@ state = {
     state_category = wasteland
 
     history = {
+		buildings = {
+			9523 = {
+			    landmark_eiffel_tower = {
+			        level = 1
+			        allowed = {
+			            has_dlc = "Gotterdammerung"
+			        }
+			    }
+			}
+		}
 		owner = FRA
 		add_core_of = FRA
     }

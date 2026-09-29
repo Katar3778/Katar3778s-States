@@ -17,10 +17,10 @@ state=
 		}
 		add_core_of = SOM
 		buildings = {
-			infrastructure = 2
-			10833 = {
+			20177 = {
 				naval_base = 1
 			}
+			infrastructure = 2
 		}
 	}
 	provinces={

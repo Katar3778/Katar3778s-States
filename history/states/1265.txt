@@ -5,6 +5,11 @@ state = {
     state_category = megalopolis
 
     history = {
+		buildings = {
+			9671 = {
+				naval_base = 4
+			}
+		}
         victory_points = {
 			9671 25
 		}
