@@ -1,0 +1,18 @@
+state = {
+    id = 1269
+    name="STATE_1269"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+		owner = POL
+		add_core_of = POL
+		add_core_of = BLR
+    }
+
+    provinces = {
+        535 6579 15607
+    }
+
+    local_supplies = 0
+}

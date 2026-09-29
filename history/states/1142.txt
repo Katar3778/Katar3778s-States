@@ -5,6 +5,8 @@ state = {
     state_category = wasteland
 
     history = {
+		add_core_of = SOV
+		add_core_of = GEO
     }
 
     provinces = {

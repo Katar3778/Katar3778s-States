@@ -8,10 +8,11 @@ state = {
 		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
+        victory_points = { 3520 3 }
     }
 
     provinces = {
-        15658
+        3520 15658
     }
 
     local_supplies = 0

@@ -5,9 +5,13 @@ state = {
     state_category = wasteland
 
     history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = UKR
     }
 
     provinces = {
+        9493 14533
     }
 
     local_supplies = 0

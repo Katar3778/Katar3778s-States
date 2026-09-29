@@ -1,0 +1,18 @@
+state = {
+    id = 1262
+    name="STATE_1262"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+        victory_points = { 9449 1 }
+		owner = SOV
+		add_core_of = SOV
+    }
+
+    provinces = {
+        3492 6481 6517 6603 9449 9518
+    }
+
+    local_supplies = 0
+}

@@ -2,7 +2,7 @@ state = {
     id = 1219
     name="STATE_1219"
     manpower = 0
-    state_category = wasteland
+    state_category = town
 
     history = {
 		owner = USA
@@ -10,7 +10,7 @@ state = {
     }
 
     provinces = {
-        20345
+        12553 20483 20485
     }
 
     local_supplies = 0
