@@ -1,20 +1,24 @@
 state={
 	id=1008
 	name="STATE_1008"
-	manpower = 562330
+	manpower = 794000
 	state_category = rural
+	resources = {
+		chromium = 2
+	}
 	provinces={
-		4949 5020 5064 10789 14757 15974 18623 18631 
+		1995 2078 2101 4949 5020 5064 10789 14747 14757 15974 18623 18631 18635 18644 20586
+		20593 20598 20599 20601 20605 20606 20607 20608 20611 20612 20617 20618 20645 20646 20693
+		20706 20707 20708 20711 20712 20713 20733 20734 20738 20743
 	}
 	history={
-		owner = AFG
 		buildings = {
-			infrastructure = 1 
+			infrastructure = 1
 		}
+		victory_points = { 5064 1 }
+
+		owner = AFG
 		add_core_of = AFG
-		victory_points = {
-			5064 1 
-		}
 	}
 	
 	buildings_max_level_factor=1.000

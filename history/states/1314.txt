@@ -1,0 +1,21 @@
+state = {
+    id = 1314
+    name="STATE_1314"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+        victory_points = { #Split
+			3924 3
+		}
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = SLV
+    }
+
+    provinces = {
+        3868 3924 14660
+    }
+
+    local_supplies = 0
+}

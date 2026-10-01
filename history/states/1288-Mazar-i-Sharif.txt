@@ -1,0 +1,25 @@
+state={
+	id=1288
+	name="STATE_1288"
+	manpower = 349000
+	resources = {
+		steel = 1
+	}
+
+	state_category = rural
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		add_core_of = TMS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		10852 18642 18660 20584 20653 20657 20658 20742 20749 20750
+	}
+
+	local_supplies=0.0
+}

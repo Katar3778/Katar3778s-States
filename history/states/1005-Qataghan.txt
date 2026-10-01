@@ -1,17 +1,23 @@
 state={
 	id=1005
 	name="STATE_1005"
-	manpower = 925226
+	manpower = 711000
 	state_category = rural
 
 	resources = {
-		chromium = 3
+		chromium = 2
 	}
 
 	provinces={
-		7519 10826 12653 14749 14750 14752 18634 18637 18661 
+		7519 12248 12653 14749 14750 14752 20576 20656 20659 20660 20661 20662 20695 20696 20699
+		20700 20701
 	}
 	history={
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 12248 1 }
+
 		owner = AFG
 		add_core_of = AFG
 		add_core_of = TAJ

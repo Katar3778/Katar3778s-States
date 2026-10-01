@@ -2,7 +2,7 @@
 state={
 	id=513
 	name="STATE_513" # Tlmecen
-	manpower = 811486
+	manpower = 734984
 	
 	state_category = wasteland
 
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-		1967 4970 5053 7149 9943 12888 18013
+		1967 4970 5053 7149 9943 12888 20568
 	}
 
 	local_supplies=0.0 

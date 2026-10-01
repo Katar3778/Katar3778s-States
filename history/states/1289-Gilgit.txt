@@ -1,0 +1,23 @@
+state={
+	id=1289
+	name="STATE_1289"
+	manpower = 746000
+
+	state_category = rural
+
+	history={
+		owner = RAJ
+		add_core_of = PAK
+		add_core_of = KAS
+		add_core_of = KHL
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		2084 10821 15552 16009 18871 20588 20600 20649 20650 20732 20754
+	}
+
+	local_supplies=0.0
+}

@@ -1,0 +1,26 @@
+state={
+	id=1305
+	name="STATE_1305"
+	manpower = 438000
+	resources = {
+	}
+
+	state_category = town
+
+	history={
+		owner = RAJ
+		add_core_of = KLT
+		add_core_of = PAK
+		add_core_of = BLC
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 8098 1 }
+	}
+
+	provinces={
+		8098 15991 18883 20640 20641 20642 20717 20718 20756 20757
+	}
+
+	local_supplies=0.0
+}

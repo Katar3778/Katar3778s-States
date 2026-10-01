@@ -1,0 +1,28 @@
+state={
+	id=1295
+	name="STATE_1295"
+	manpower = 1453000
+	resources = {
+		chromium = 1
+		steel = 1
+		tungsten = 2
+	}
+
+	state_category = town
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		7916 12769 15972 15973 18628 18654 18655 20571 20579 20626 20667 20702 20703 20735 20748
+	}
+
+	local_supplies=0.0
+}

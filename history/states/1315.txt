@@ -1,0 +1,20 @@
+state = {
+    id = 1315
+    name="STATE_1315"
+    manpower = 0
+    state_category = wasteland
+
+    history = {
+        victory_points = {
+			10203 1
+		}
+		owner = GRE
+		add_core_of = GRE
+    }
+
+    provinces = {
+        10203
+    }
+
+    local_supplies = 0
+}

@@ -1,0 +1,25 @@
+state={
+	id=1291
+	name="STATE_1291"
+	manpower = 458000
+	resources = {
+	}
+
+	state_category = rural
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		add_core_of = TMS
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 10781 1 }
+	}
+
+	provinces={
+		10781 15976 18634 18637 18667 18690 20739 20753
+	}
+
+	local_supplies=0.0
+}

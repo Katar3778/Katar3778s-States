@@ -1,0 +1,26 @@
+state={
+	id=1293
+	name="STATE_1293"
+	manpower = 315000
+	resources = {
+		chromium = 1
+	}
+
+	state_category = rural
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		add_core_of = TAJ
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 12831 1 }
+	}
+
+	provinces={
+		10826 12831 18661 20651 20652 20676 20751
+	}
+
+	local_supplies=0.0
+}

@@ -4,23 +4,23 @@ state={
 	state_category = rural
 
 	resources = {
-		chromium = 7
+		chromium = 5
 	}
 
 	provinces={
-		1948 1995 2017 2062 2078 2101 14743 14744 14745 14747 14756 18644 
+		1948 2017 2062 14743 14744 14745 14756 20572 20581 20591 20594 20595 20596 20597 20685
+		20686 20687 20688 20689 20690 20691 20692 20704 20705
 	}
 	history={
-		owner = AFG
 		buildings = {
 			infrastructure = 0
 		}
+		victory_points = { 2017 1 }
+
+		owner = AFG
 		add_core_of = AFG
-		victory_points = {
-			2017 1
-		}
 	}
-	manpower = 281165
+	manpower = 193000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

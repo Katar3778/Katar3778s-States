@@ -1,10 +1,14 @@
 state = {
     id = 1275
     name="STATE_1275"
-    manpower = 0
+    manpower = 1000
     state_category = wasteland
 
     history = {
+		buildings = {
+			infrastructure = 1
+		}
+
 		owner = SOV
 		add_core_of = SOV
 		add_core_of = TAJ
@@ -12,8 +16,9 @@ state = {
     }
 
     provinces = {
-        4923 8027 10417 12805 14751 15970 15975 18656
-    }
+		4923 8027 10417 12805 14751 15975 18656 20573 20603 20604 20633 20643 20672 20673 20674
+		20675 20697 20698
+	}
 
     local_supplies = 0
 }

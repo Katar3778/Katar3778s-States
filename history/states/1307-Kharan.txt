@@ -1,0 +1,25 @@
+state={
+	id=1307
+	name="STATE_1307"
+	manpower = 164000
+	resources = {
+		oil = 1
+	}
+
+	state_category = rural
+
+	history={
+		owner = RAJ
+		add_core_of = PAK
+		add_core_of = BLC
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		5043 15988 15996 20613 20614 20615 20616 20714 20715 20722 20723 20724
+	}
+
+	local_supplies=0.0
+}

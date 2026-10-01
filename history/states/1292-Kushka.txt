@@ -1,0 +1,22 @@
+state={
+	id=1292
+	name="STATE_1292"
+	manpower = 11000
+
+	state_category = pastoral
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = TMS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		20578 20585
+	}
+
+	local_supplies=0.0
+}

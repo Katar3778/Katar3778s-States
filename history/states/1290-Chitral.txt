@@ -1,0 +1,26 @@
+state={
+	id=1290
+	name="STATE_1290"
+	manpower = 1367000
+	resources = {
+		steel = 1
+	}
+
+	state_category = wasteland
+
+	history={
+		owner = RAJ
+		add_core_of = NWF
+		add_core_of = PAK
+		add_core_of = KHL
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		4558 16006 20730 20731
+	}
+
+	local_supplies=0.0
+}

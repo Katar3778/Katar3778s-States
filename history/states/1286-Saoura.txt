@@ -1,0 +1,25 @@
+state = {
+	id = 1286
+	name = "STATE_1286" # Saoura
+	manpower = 93813
+	
+	state_category = wasteland
+	impassable = yes
+
+	history = {
+
+		owner = FRA
+		add_core_of = ALG
+
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces={
+		2049 12711 14397 14408 18042 20060 20564 20567 20569
+	}
+
+	local_supplies = 0.0 
+}

@@ -2,24 +2,22 @@ state={
 	id=1012
 	name="STATE_1012"
 	provinces={
-		8098 15991 
+		8066 15992 20583 20637 20638
 	}
 	state_category = town
-	manpower = 480164
+	manpower = 168000
 
 	history = {
+		buildings = {
+			infrastructure = 1
+		}
+
 		owner = RAJ
 		add_core_of = KLT
 		add_core_of = PAK
 		add_core_of = BLC
 
-		buildings = {
-			infrastructure = 1 #was: 5
-		}
 
-		victory_points = {
-			8098 1 # Kalat
-		}
 	}
 	
 	buildings_max_level_factor=1.000
